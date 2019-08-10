@@ -5,7 +5,7 @@ permalink: /about/index.html
 navtitle: About
 tags:
   - nav
-----
+-----
  Current Stacks:
 -----
  David Rhoden

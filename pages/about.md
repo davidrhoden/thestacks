@@ -5,15 +5,15 @@ permalink: /about/index.html
 navtitle: About
 tags:
   - nav
----
+----
  Current Stacks:
-
+-----
  David Rhoden
  Andrew Donaldson
  Andre Marquette
-
+-----
  Previous Stacks:
-
+-----
  David Rhoden
  Andrew Donaldson 
  Steve Walkup

@@ -4,7 +4,6 @@ summary: A new website for The Stacks
 date: 2019-08-09
 tags:
   - post
-  - tech
   - rock
   - rock and roll
 

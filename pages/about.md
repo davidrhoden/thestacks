@@ -1,11 +1,12 @@
 ---
-title: About us
+title: All You Want To Know About The Stacks
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
-navtitle: About
 tags:
   - nav
------
+navtitle: About
+---
+
  Current Stacks:
 -----
  David Rhoden
@@ -14,6 +15,7 @@ tags:
 -----
  Previous Stacks:
 -----
+ 
  David Rhoden
  Andrew Donaldson 
  Steve Walkup
@@ -35,9 +37,9 @@ tags:
  -----
 
  David Rhoden
+ Chan Menon
  Trey Ledford
  Steve Walkup
- Chan Menon
  Doug DeRienzo
 
  -----

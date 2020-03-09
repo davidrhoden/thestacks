@@ -9,9 +9,11 @@ navtitle: About
 
  Current Stacks:
 -----
+ 
  David Rhoden
  Andrew Donaldson
  Andre Marquette
+ 
 -----
  Previous Stacks:
 -----

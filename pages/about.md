@@ -60,17 +60,18 @@ We broke up, but we had a couple of gigs booked I wanted to play, so I said, "le
  Ron Bocian
 
 -----
- An incomplete list of bands we have a degree of separation with (somebody who was in the Stacks played in one of these bands):
+ An incomplete, alphabetical list of bands we have a degree of separation with (somebody who was in the Stacks played in one of these bands):
 -----
 
-La Brea Stompers
-Mercyland
+Big Blue Marble
+Bipolaroid
 Egg Yolk Jubilee
 Guzzard
-Sunrise : Sunset
+La Brea Stompers
+Mercyland
+Picnic
 St. Lorelei
-Bipolaroid
-Big Blue Marble
+Sunrise : Sunset
 
 -----
 

@@ -15,7 +15,7 @@ This is the website for The Stacks from New Orleans. Louisiana. We don't care if
 <ul id="shows">
     <li class="slide"><img src="/static/images/stacksatgasagasa.jpg" width="640" alt="The Stacks New Orleans: Gasa Gasa">
     Stacks at Gasa Gasa, New Orleans.</li>
-    <li class="slide"><img src="/static/images/cooldrumhead.jpg" width="640" alt="The Stacks New Orleans: Drumhead">
+    <li class="slide"><img src="/static/images/stacksdrumhead.jpg" width="640" alt="The Stacks New Orleans: Drumhead">
     Stacks at Circle Bar, New Orleans</li>
     <li class="slide"><img src="/static/images/flyersdrying.jpg" width="640" alt="The Stacks New Orleans: Flyers">
     It used to be legal and even fun to hang posters on telephone poles. Those were the days.</li>

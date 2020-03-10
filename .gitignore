@@ -3,3 +3,4 @@ node_modules/
 package-lock.json
 audio/NightTime.mp3
 audio/PaperThinSanity.mp3
+*.zip

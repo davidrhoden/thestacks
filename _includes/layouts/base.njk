@@ -1,25 +1,19 @@
 <!doctype html>
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
 
-	{% include "components/head.njk" %}
+    {% include "components/head.njk" %}
 
-	<body>
+    <body>
+        <header>
+            <h1 class="big-title">The Stacks</h1>
+            <h1 class="sub-title">New Orleans&rsquo; $$$$ Million-Dollar $$$$ Party Band</h1>
+            {% include "components/nav.njk" %}
+        </header>
 
-		<header>
-<!-- 			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em> -->
-			<h1 class="big-title">The Stacks</h1>
-			<h1 class="sub-title">New Orleans&rsquo; $$$$ Million-Dollar $$$$ Party Band</h1>
-			{% include "components/nav.njk" %}
-		</header>
-
-		<main>
-			{{ layoutContent | safe }}
-		</main>
-
-		{% include "components/footer.njk" %}
-
-	</body>
+        <main>
+            {{ layoutContent | safe }}
+        </main>
+            {% include "components/footer.njk" %}
+    </body>
 
 </html>

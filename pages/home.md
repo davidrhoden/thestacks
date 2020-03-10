@@ -35,7 +35,5 @@ This is the website for The Stacks from New Orleans. Louisiana. We don't care if
     <li class="slide"><img src="/static/images/stacksbigtop120911cropped.jpg" width="640" alt="The Stacks New Orleans: Big Top">The Stacks at the Big Top, New Orleans</li>
     <li class="slide"><img src="/static/images/stackshot.jpg" width="640" alt="The Stacks New Orleans: Rooftop">
     More natural, spontaneous early Stacks, photographed by Eli.</li>
-    <li class="slide"><img src="/static/images/stackschansteveforweb.png" width="640" alt="The Stacks New Orleans"><br>
-    Not sure what's going on here.</li>
 </ul>
 </div>

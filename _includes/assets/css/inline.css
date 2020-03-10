@@ -59,6 +59,10 @@ code {
 	line-height: 1.5;
 }
 
+.centered {
+	text-align: center;
+}
+
 a[href],
 a[href]:visited {
 	color: var(--blue);
@@ -138,6 +142,10 @@ header nav li a[data-current="current item"] {
 	text-decoration: underline;
 }
 
+footer {
+	line-height: .7;
+}
+
 /* Posts List */
 article {
 	margin-bottom: 1em;
@@ -215,6 +223,16 @@ button {
 	background-color: var(--blue);
 	color: var(--white);
 	cursor: pointer;
+}
+
+.slide {
+	border-bottom: 1px dashed #696969;
+    margin: 1em 0;
+    padding: 1.2em 0;
+}
+
+.slide img{
+	margin-bottom: 1em;
 }
 
 @media screen and (min-width:768px) {

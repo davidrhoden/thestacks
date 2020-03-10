@@ -4,4 +4,5 @@ package-lock.json
 audio/NightTime.mp3
 audio/PaperThinSanity.mp3
 *.zip
+*.DS_Store
 .DS_Store

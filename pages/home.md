@@ -21,7 +21,7 @@ This is the website for The Stacks from New Orleans. Louisiana. We don't care if
     It used to be legal and even fun to hang posters on telephone poles. Those were the days.</li>
     <li class="slide"><img src="/static/images/GoodsForServices.jpg" width="640" alt="Goods For Services by Eli Underwood">
     Eli Underwood took this picture on the roof of an old building.</li>
-    <li class="slide"><img src="/static/images/peopledancingatstacks.JPG" width="640" alt="The Stacks New Orleans: People Dancing">
+    <li class="slide"><img src="/static/images/peopledancingatstacksbigtop.jpg" width="640" alt="The Stacks New Orleans: People Dancing">
     Stacks at the much-missed Big Top Gallery.</li>
     <li class="slide"><img src="/static/images/stacked.jpg" width="640" alt="The Stacks New Orleans: Stacked"></li>
     <li class="slide"><img src="/static/images/stackstrey.jpg" width="640" alt="The Stacks New Orleans: Trey">

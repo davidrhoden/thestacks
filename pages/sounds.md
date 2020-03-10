@@ -9,7 +9,7 @@ navtitle: Sounds
 
 <iframe style="border: 0; width: 100%; height: 142px;" src="https://bandcamp.com/EmbeddedPlayer/track=3293406249/size=large/bgcol=ffffff/linkcol=67c018/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://thestacksnola.bandcamp.com/track/go-and-get-it-son">Go And Get It Son by The Stacks</a></iframe>
 
-Im almost surprised we got an OK reording of this because we argued so much about the number of times each part should happen. I became convinced that God made a mistake giving us more than four fingers.
+Im almost surprised we got an OK recording of this because we argued so much about the number of times each part should happen. I became convinced that God made a mistake giving us more than four fingers.
 
 <iframe style="border: 0; width: 100%; height: 142px;" src="https://bandcamp.com/EmbeddedPlayer/track=2809267000/size=large/bgcol=ffffff/linkcol=67c018/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://thestacksnola.bandcamp.com/track/i-can-be-strong">I Can Be Strong by The Stacks</a></iframe>
 

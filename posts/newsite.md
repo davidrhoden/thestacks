@@ -1,7 +1,7 @@
 ---
 title: A new website for The Stacks
 summary: A new website for The Stacks
-date: 2019-08-09
+date: 2020-03-08
 tags:
   - post
   - rock
@@ -17,4 +17,4 @@ It is hosted (for free) on Netlify: https://www.netlify.com/
 
 The skeleton of the site came from Dan Urbanowicz's nice Eleventy/Netlify boilerplate. https://github.com/danurbanowicz
 
-Send us your comments on our contact form. http://localhost:8080/contact/
+Send us your comments on our contact form. https://thestackswebsite.com/contact/

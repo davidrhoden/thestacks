@@ -59,9 +59,26 @@ We broke up, but we had a couple of gigs booked I wanted to play, so I said, "le
  Paul Grass
  Ron Bocian
 
- -----
+-----
+ An incomplete list of bands we have a degree of separation with (somebody who was in the Stacks played in one of these bands):
+-----
+
+La Brea Stompers
+Mercyland
+Egg Yolk Jubilee
+Guzzard
+Sunrise : Sunset
+St. Lorelei
+Bipolaroid
+Big Blue Marble
+
+-----
+
 
 <!-- <div class="centered"> -->
+Endorsements
+-----
+
 [![Clayton USA logo](/static/images/clayton_logo1.png)](https://www.steveclayton.com/)
 
 David Rhoden uses Clayton USA guitar picks.

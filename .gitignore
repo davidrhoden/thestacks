@@ -4,3 +4,5 @@ package-lock.json
 audio/
 *.zip
 support_files/
+.DS_Store
+*/.DS_Store

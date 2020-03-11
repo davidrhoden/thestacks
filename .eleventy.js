@@ -2,6 +2,11 @@ const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
+const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
+
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(lazyImagesPlugin);
+};
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");

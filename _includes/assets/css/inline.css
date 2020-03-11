@@ -3,7 +3,6 @@
 	--white: white;
 	/*--blue: #18abc0;*/
 	--blue: #67c018;
-	
 }
 
 *, *:before, *:after {
@@ -23,6 +22,13 @@ body {
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--turkey);
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
 }
 
 h1, h2, h3 {

@@ -26,7 +26,7 @@ This is the website for The Stacks from New Orleans. Louisiana. We don't care if
     <li class="slide"><img src="/static/images/stacked.jpg" width="100%" alt="The Stacks New Orleans: Stacked"></li>
     <li class="slide"><img src="/static/images/stackstrey.jpg" width="100%" alt="The Stacks New Orleans: Trey">
     This looks like it was at some art opening I don't remember.</li>
-    <li class="slide"><img src="/static/images/stacksinphotobooth.png" width="100%" alt="The Stacks New Orleans: Photo Booth, NYC">
+    <li class="slide"><img src="/static/images/stacksinphotobooth.jpg" width="100%" alt="The Stacks New Orleans: Photo Booth, NYC">
     The Stacks in the photo booth at the much-missed Lakeside Lounge, NYC. We didn't play there.</li>
     <li class="slide"><img src="/static/images/stackstumbler.jpg" width="100%" alt="The Stacks New Orleans: Tumbler">
     More rooftop Holga action.</li>

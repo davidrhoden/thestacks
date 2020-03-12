@@ -9,7 +9,7 @@ tags:
 ---
 # Welcome
 
-This is the website for The Stacks from New Orleans. Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999.
+This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999.
 
 <div class="slide-wrapper">
 <ul id="shows">

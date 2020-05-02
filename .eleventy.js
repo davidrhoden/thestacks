@@ -13,8 +13,8 @@ const pluginSEO = require("eleventy-plugin-seo");
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
   eleventyConfig.addPlugin(pluginSEO, {
-    title: "The Stacks",
-    description: "This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999.",
+    title: "The Stacks :: New Orleans' $$$$ Million Dollar $$$$ Party Band",
+    description: "They don't call us the Louisiana homewreckers and hellraisers for nothing. This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999.",
     url: "https://thestackswebsite.com",
     author: "David Rhoden/The Stacks",
     twitter: "davidrhoden",

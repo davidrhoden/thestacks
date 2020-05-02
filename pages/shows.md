@@ -2,6 +2,9 @@
 title: Stacks Shows
 date: 2020-05-01T00:00:00.000Z
 permalink: /shows/index.html
+eleventyNavigation:
+  key: About
+  order: 4
 tags:
   - nav
 navtitle: Shows 

@@ -2,6 +2,9 @@
 title: Stacks Promotional Videos
 date: 2020-01-01T00:00:00.000Z
 permalink: /videos/index.html
+eleventyNavigation:
+  key: Videos
+  order: 3
 tags:
   - nav
 navtitle: Videos

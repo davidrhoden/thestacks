@@ -3,12 +3,26 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const pluginSEO = require("eleventy-plugin-seo");
 
-module.exports = function(eleventyConfig) {
+
+
+  module.exports = function(eleventyConfig) {
+
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+  eleventyConfig.addPlugin(pluginSEO, {
+    title: "The Stacks",
+    description: "This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999.",
+    url: "https://thestackswebsite.com",
+    author: "David Rhoden/The Stacks",
+    twitter: "davidrhoden",
+    image: "https://thestackswebsite.com/static/img/stacksbygpatgasa1.jpg"
+  });
+
   eleventyConfig.addPlugin(lazyImagesPlugin);
-};
 
-module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   // Date formatting (human readable)

@@ -7,8 +7,6 @@ tags:
 ---
 @gonerrecords posted this old flyer on Instagram. My memories of this show are so faint that it was either exactly as advertised or we didn't play it at all. 
 
-Can somebody remind me what happened? usually i just need a hint.
-
-
+Can somebody remind me what happened? Usually I just need a hint.
 
 ![flyer for rock show](/static/img/stacksflyerfeb82001-.jpg)

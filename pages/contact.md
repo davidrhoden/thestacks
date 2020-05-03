@@ -1,6 +1,9 @@
 ---
 layout: layouts/contact.njk
 title: Send a message to The Stacks
+eleventyNavigation:
+  key: Contact
+  order: 6
 tags:
   - nav
 navtitle: Contact

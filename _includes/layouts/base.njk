@@ -3,7 +3,7 @@
 
     {% include "components/head.njk" %}
 
-    <body>
+    <body class="{% if pageType %}{{ pageType }} {{ page.fileSlug }}{% endif %} {{ pageClasses }}">
         <header>
             <h1 class="big-title">The Stacks</h1>
             <h1 class="sub-title">New Orleans&rsquo; $$$$ Million-Dollar $$$$ Party Band</h1>

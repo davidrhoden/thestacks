@@ -27,4 +27,4 @@ navtitle: Videos
  Stacks and Lorelei at Gasa Gasa, New Orleans
 -----
 
- <img src="../static/images/gasagasa180807_02.gif" width="100%" alt="Stacks with Lorelei at Gasa Gasa animation" />
+ <img src="/static/images/gasagasa180807_02.gif" width="100%" alt="Stacks with Lorelei at Gasa Gasa animation" />

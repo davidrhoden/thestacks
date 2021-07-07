@@ -1,6 +1,6 @@
 ---
 title: The Stacks played the Circle Bar
-date: 2021-06-15T17:00:00.000Z
+date: 2018-09-14T17:00:00.000Z
 summary: Here's the recording from the show.
 excerpt: Here's the recording from the show.
 image: stacks-circle-bar-sep-14-2018.jpg

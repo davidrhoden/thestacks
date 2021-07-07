@@ -75,21 +75,23 @@ We broke up, but we had a couple of gigs booked I wanted to play, so I said, "le
 Big Blue Marble
 Bipolaroid
 Egg Yolk Jubilee
+Four Star Volcanic
 Guzzard
+Hi-Balls
+Jimmy and The Wolfpack
 La Brea Stompers
+Long Low Rumble
 Mercyland
+O-Pines
 Picnic
 St. Lorelei
 Sunrise : Sunset
 
 -----
 
-
-<!-- <div class="centered"> -->
 Endorsements
 -----
 
 [![Clayton USA logo](/static/images/clayton_logo1.png)](https://www.steveclayton.com/)
 
 David Rhoden uses [Clayton USA guitar picks](https://www.steveclayton.com/).
-<!-- </div> -->

@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-netlify-boilerplate",
+  "name": "thestacks",
   "version": "1.0.1",
-  "description": "A boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
+  "description": "Website for The Stacks, New Orleans, Million $$$$ Party Band",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate"
+    "url": "https://github.com/davidrhoden/thestacks"
   },
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "url": "https://www.danurbanowicz.com/"
+    "name": "David Rhoden",
+    "email": "david@davidrhoden.com",
+    "url": "https://www.davidrhoden.com/"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate/issues"
+    "url": "https://github.com/davidrhoden/thestacks/issues"
   },
-  "homepage": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate",
+  "homepage": "https://github.com/davidrhoden/thestacks",
   "devDependencies": {
     "@11ty/eleventy": "^0.8.3",
     "eleventy-plugin-lazyimages": "github:liamfiddler/eleventy-plugin-lazyimages",

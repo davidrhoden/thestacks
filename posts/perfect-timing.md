@@ -2,6 +2,7 @@
 title: Perfect timing.
 date: 2020-03-24T05:44:13.998Z
 summary: We started recording just in time for a nationwide lockdown.
+image: andrew-and-andre-jun-6-2020.jpg
 tags:
   - post
   - recording
@@ -12,3 +13,9 @@ We finally started recording for real just when the coronavirus lockdown was beg
 Maybe we'll end up finishing this thing remotely, just sending the tracks to each other somehow.
 
 When we do finish, it'll probably join our other recordings on [Bandcamp](https://thestacksnola.bandcamp.com).
+
+![Andre in studio](/static/img/andre-in-studio-jun-6-2020.jpg)
+
+![Andrew and Andre in studio](/static/img/andrew-and-andre-jun-6-2020.jpg)
+
+![David in studio](/static/img/david-recording-with-stacks-at-andres-jun-6-2020.jpg)

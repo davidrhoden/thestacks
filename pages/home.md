@@ -14,6 +14,15 @@ tags:
 
 This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999.
 
+NEXT SHOW:
+Saturday, July 10, 2021
+Sidney's Saloon
+1200 St Bernard Avenue
+New Orleans, LA 70116
+The Drupes
+The Stacks
+9 p.m., $5
+
 <div class="slide-wrapper">
 <ul id="shows">
     <li class="slide"><img src="/static/images/stacksatgasagasa.jpg" width="100%" alt="The Stacks New Orleans: Gasa Gasa">

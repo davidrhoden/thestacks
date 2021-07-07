@@ -294,7 +294,6 @@ The Stacks
 Lynn Drury Band
 Allways Lounge
 2240 St Claude Avenue
-
 New Orleans, LA 70117
 10 p.m.
 
@@ -317,4 +316,13 @@ Saturn Bar
 3067 St Claude Avenue, New Orleans, LA
 The Stacks with Mystery Girl
 10 p.m., $5
+
+
+Saturday, July 10, 2021
+Sidney's Saloon
+1200 St Bernard Avenue
+New Orleans, LA 70116
+The Drupes
+The Stacks
+9 p.m., $5
 

@@ -1,9 +1,9 @@
 ---
 title: The Stacks release the recordings we did with Andre Marquette
 date: 2021-06-15T17:00:00.000Z
-summary: Playing on Gina's stage with George Wilde and Lo Amps, only rescheduled.
-excerpt: Playing on Gina's stage with George Wilde and Lo Amps, only rescheduled.
-image: SisterStreetStage-Apr-25-2021.png
+summary: Andre played drums and also engineered the recording.
+excerpt: Andre played drums and also engineered the recording.
+image: StacksPandemicRecordingsWithAndreRed.jpg
 tags:
   - post 
   - New Orleans

@@ -24,9 +24,9 @@ don't know right now, but there will be one.
     <li class="slide"><img src="/static/images/stacksdrumhead.jpg" width="100%" alt="The Stacks New Orleans: Drumhead">
     Stacks at Circle Bar, New Orleans</li>
     <li class="slide"><img src="/static/images/flyersdrying.jpg" width="100%" alt="The Stacks New Orleans: Flyers">
-    It used to be legal and even fun to hang posters on telephone poles. Those were the days.</li>
+    It used to be legal and even fun to hang posters on telephone poles. Those were the days.<br>I would make screens for screen printing out of palain old notebook or typing paper. They'd last long enough to get 20 or thirty prints usually. But these were done withscreen resist fluid I think.</li>
     <li class="slide"><img src="/static/images/GoodsForServices.jpg" width="100%" alt="Goods For Services by Eli Underwood">
-    Eli Underwood took this picture on the roof of an old building.</li>
+    Eli Underwood took this picture on the roof of an old creole cottage.</li>
     <li class="slide"><img src="/static/images/peopledancingatstacksbigtop.jpg" width="100%" alt="The Stacks New Orleans: People Dancing">
     Stacks at the much-missed Big Top Gallery.</li>
     <li class="slide"><img src="/static/images/stacked.jpg" width="100%" alt="The Stacks New Orleans: Stacked"></li>

@@ -17,7 +17,7 @@ tags:
 
 Well attended show. Some friends I invited came, and Andrew brough along his Homeowner's Association so this crowd was a little rowdy.
 
-![Stacks at Sidney's Saloon](/static/img/rock//sidney's-saloon-sign.jpg "Stacks at Sidney's Saloon")
+![Stacks at Sidney's Saloon](/static/img/rock/stacks-sidneys-by-noy-jul-10-2021.jpg "Stacks at Sidney's Saloon")
 
 Stacks at Sidney's Saloon, photo by Noy Sourivavong.
 

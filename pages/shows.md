@@ -29,12 +29,13 @@ Mermaid Lounge
 NEW ORLEANS LOUISIANA
 
 
-TUESDAY, NOVEMBER 11
+TUESDAY, NOVEMBER 11, 2003
 THE BAMBOO KIDS
 THE STACKS
 EL MATADOR
 504 ESPLANADE AVENUE (corner of Decatur)
 NEW ORLEANS LOUISIANA
+
 
 THE STACKS NEW YEAR'S EVE PARTY
 ERNIE K-DOE'S MOTHER-IN-LAW LOUNGE
@@ -50,7 +51,7 @@ New Orleans, LA
 
 
 THE STACKS
-April 3,2004
+April 3, 2004
 Art Brat 3/UNDER THE RADAR art show/party
 310 St. Andrew Street
 
@@ -60,6 +61,7 @@ THE STACKS
 LOUNGE LIZARDS
 200 Decatur Street 
 April 23, 2004
+
 
 THE STACKS
 MONDAY JUNE 28,2004
@@ -72,6 +74,7 @@ THE STACKS plus WHISKEYFOOT
 ERNIE K-DOE'S MOTHER-IN-LAW LOUNGE
 1500 N. CLAIBORNE AVENUE
 SATURDAY, JULY 17,2004
+
 
 DRAGON'S DEN
 Sat. July 24, 2004
@@ -215,14 +218,14 @@ Rendon Street
 
 The Stacks 
 The Parishioners
-June 29, 2012,
+June 29, 2012
 Allways Lounge
 2240 St. Claude Avenue
 
 
 The Stacks
 Redondo Beat
-Thursday, August 9
+Thursday, August 9, 2012
 Allways Lounge
 2240 St. Claude Avenue
 New Orleans Louisiana
@@ -232,7 +235,7 @@ New Orleans Louisiana
 Clint Maedgen at 8
 The Stacks at 9
 Dinteen Experience at 10
-Tuesday, September 11
+Tuesday, September 11, 2012
 The Big Top
 1638 Clio Street
 New Orleans Louisiana
@@ -240,20 +243,24 @@ New Orleans Louisiana
 
 The Goodnight Show with John Calhoun 8 p.m. (doors at 7:30)
 The Stacks 9:45 p.m.
-Wednesday, September 26
+Wednesday, September 26, 2012
 Cafe Istanbul
 2372 St. Claude Avenue
 New Orleans Louisiana
 
+<iframe width="640" height="350" src="https://www.youtube.com/embed/ySqDXe1bSvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Friday October 5
+<iframe width="640" height="350" src="https://www.youtube.com/embed/xTqg89MZSrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Friday October 5, 2012
 The Stacks
 Saturn Bar
 3067 St. Claude Avenue
 New Orleans Louisiana
 10 p.m.
 
-Tuesday October 23
+Tuesday October 23, 2012
 Chicano Batman
 The Stacks
 Siberia
@@ -262,7 +269,7 @@ New Orleans Louisiana
 10 p.m.
 $6
 
-Saturday October 27
+Saturday October 27, 2012
 The Stacks
 \"The Compound\"
 625 N. Rendon
@@ -270,7 +277,7 @@ New Orleans Louisiana
 7 p.m.
 FREE
 
-Friday November 16
+Friday November 16, 2012
 The Stacks
 Happy Talk Band
 Nick Jaina 
@@ -280,7 +287,7 @@ Siberia
 New Orleans Louisiana
 9 p.m.
 
-Friday January 11
+Friday January 11, 2013
 Original Shake Charmers
 Guitar Lightnin'
 The Stacks
@@ -289,7 +296,7 @@ Siberia
 New Orleans Louisiana
 10 p.m.
 
-Saturday March 2
+Saturday March 2, 2013
 The Stacks
 Lynn Drury Band
 Allways Lounge
@@ -298,7 +305,7 @@ New Orleans, LA 70117
 10 p.m.
 
 
-Wednesday, May 1
+Wednesday, May 1, 2013
 Chaz Fest
 St Claude Avenue, New Orleans, LA
 More details to come.

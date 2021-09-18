@@ -14,7 +14,11 @@ tags:
 This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999.
 
 NEXT SHOW:
-don't know right now, but there will be one.
+October 28, 2021
+Bad Misters
+The Stacks
+Saturn Bar
+New Orleans, Louisiana
 
 <div class="slide-wrapper">
 <ul id="shows">

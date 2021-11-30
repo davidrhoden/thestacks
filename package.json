@@ -1,10 +1,11 @@
 {
   "name": "thestacks",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Website for The Stacks, New Orleans, Million $$$$ Party Band",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
+    "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy"
   },
   "repository": {
@@ -14,25 +15,24 @@
   "author": {
     "name": "David Rhoden",
     "email": "david@davidrhoden.com",
-    "url": "https://www.davidrhoden.com/"
+    "url": "https://davidrhoden.com/"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/davidrhoden/thestacks/issues"
   },
-  "homepage": "https://github.com/davidrhoden/thestacks",
+  "homepage": "https://davidrhoden.com",
   "devDependencies": {
-    "@11ty/eleventy": "^0.8.3",
-    "eleventy-plugin-lazyimages": "github:liamfiddler/eleventy-plugin-lazyimages",
-    "luxon": "^1.22.0",
-    "markdown-it": "^8.4.2",
-    "markdown-it-anchor": "^5.0.2"
+    "@11ty/eleventy": "^0.12.1",
+    "luxon": "^1.25.0",
+    "markdown-it": "^10.0.0",
+    "markdown-it-anchor": "^5.3.0"
   },
   "dependencies": {
-    "@11ty/eleventy-navigation": "^0.1.5",
-    "clean-css": "^4.2.3",
-    "eleventy-plugin-seo": "^0.5.0",
+    "@11ty/eleventy-navigation": "^0.1.6",
+    "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
-    "uglify-es": "^3.3.9"
+    "uglify-es": "^3.3.9",
+    "uglify-js": "^3.14.3"
   }
 }

@@ -1,8 +1,7 @@
 const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
-const UglifyJS = require("uglify-es");
+const UglifyJS = require("uglify-js");
 const htmlmin = require("html-minifier");
-const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
 
@@ -21,7 +20,7 @@ const pluginSEO = require("eleventy-plugin-seo");
     image: "https://thestackswebsite.com/static/img/stacksbygpatgasa1.jpg"
   });
 
-  eleventyConfig.addPlugin(lazyImagesPlugin);
+  // eleventyConfig.addPlugin(lazyImagesPlugin);
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 

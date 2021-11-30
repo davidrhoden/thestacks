@@ -25,12 +25,13 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "luxon": "^1.25.0",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.2.0",
     "markdown-it-anchor": "^8.4.1"
   },
   "dependencies": {
     "@11ty/eleventy-navigation": "^0.3.2",
     "clean-css": "^5.2.2",
+    "eleventy-plugin-seo": "^0.5.2",
     "html-minifier": "^4.0.0",
     "uglify-es": "^3.3.9",
     "uglify-js": "^3.14.3"

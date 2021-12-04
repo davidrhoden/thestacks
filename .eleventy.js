@@ -70,8 +70,17 @@ const slugify = require("slugify");
     });
   });
 
+  // Universal slug filter strips unsafe chars from URLs
+  eleventyConfig.addFilter("slugify", function(str) {
+    return slugify(str, {
+      lower: true,
+      replacement: "-",
+      remove: /[*+~.·,()'"`´%!?¿:@]/g
+    });
+  });
+
+
   // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("static/images");
   eleventyConfig.addPassthroughCopy("static/images");
   eleventyConfig.addPassthroughCopy("static/video");
   eleventyConfig.addPassthroughCopy("admin");

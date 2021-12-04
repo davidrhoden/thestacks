@@ -1,7 +1,7 @@
 ---
-title: The Stacks and Bad Misters play the re-opened Saturn Bar October 28
+title: The Stacks and Bad Misters play the re-opened Saturn Bar October 28, 2021.
 date: 2021-10-28T17:00:00.000Z
-image: SisterStreetStage-Apr-25-2021.png
+image:
 tags:
   - post 
   - New Orleans

@@ -13,4 +13,4 @@ tags:
 
 Can somebody remind me what happened? Usually I just need a hint.
 
-![flyer for rock show](/static/img/stacksflyerfeb82001-.jpg)
+![flyer for rock show](/static/images/stacksflyerfeb82001-.jpg)

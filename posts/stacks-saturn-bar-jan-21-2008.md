@@ -3,7 +3,7 @@ title: Stacks played the Saturn Bar, without any rehearsal.
 date: 2008-01-21T11:00:00.000Z
 summary: I think it was the Stacks. It was probably a sort of Stacks/Wolfpack hybrid.
 excerpt: I think it was the Stacks. It was probably a sort of Stacks/Wolfpack hybrid.
-image: rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-chandelicious.jpg
+image: stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-chandelicious.jpg
 tags:
   - post 
   - New Orleans
@@ -26,37 +26,37 @@ Oh, the best part? We wanted Doug to play but he was in Oklahoma. We assumed he 
 
 <div id="viewport">
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-after-many-miles.jpg "MStacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-after-many-miles.jpg "MStacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-chandelicious.jpg "Stacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-chandelicious.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-dave.jpg "Stacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-dave.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-ernie.jpg "Stacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-ernie.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-featuring-bj.jpg "MStacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-featuring-bj.jpg "MStacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-ferry-to-algiers.jpg "Stacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-ferry-to-algiers.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-girl-and-ernie.jpg "Stacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-girl-and-ernie.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-guest-starring.jpg "Stacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-guest-starring.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-hahah.jpg "MStacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-hahah.jpg "MStacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-hmmmm.jpg "Stacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-hmmmm.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-in-the-key-of-A.jpg "Stacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-in-the-key-of-A.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-melanie-takes-the-stage.jpg "Stacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-melanie-takes-the-stage.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-michael-jastroch.jpg "MStacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-michael-jastroch.jpg "MStacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-saturn-bar.jpg "Stacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-saturn-bar.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-two-legends.jpg "Stacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-two-legends.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks-saturn-jan-21-2008/stacks-cool-drum-head-jul-8-what-a-change-in-the-saturn.jpg "Stacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/images/stacks-saturn-jan-21-2008/stacks-cool-drum-head-jul-8-what-a-change-in-the-saturn.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
 </div>
 <div class="flex row-reverse space-between">

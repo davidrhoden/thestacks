@@ -4,7 +4,7 @@ date: 2004-04-23T00:00:00.000Z
 summary: The paper color was really important.
 excerpt: The paper color was really important.
 category: rock
-image: rock/stacks-flyer-apr-23-2004.jpg
+image: stacks-flyer-apr-23-2004.jpg
 tags:
   - post 
   - rock
@@ -19,7 +19,7 @@ tags:
 
 ---
 
-![Stacks flyer for Lounge Lizards show](/static/img/rock/stacks-flyer-apr-23-2004.jpg "Stacks flyer for Lounge Lizards show")
+![Stacks flyer for Lounge Lizards show](/static/images/stacks-flyer-apr-23-2004.jpg "Stacks flyer for Lounge Lizards show")
 
 At this time my ex-wife had run off and joined a band called Big Blue Marble that played "nice music". they were very good. the leader, Dave Fera would make these pretty posters where he would cut up Simplicity patterns and old fashion mags, of which he had a big supply in his van. They were nice posters, really classed up the phone poles. So of course I had to make fun of them. 
 

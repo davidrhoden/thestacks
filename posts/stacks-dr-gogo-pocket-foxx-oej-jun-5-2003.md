@@ -4,7 +4,7 @@ date: 2003-06-05T22:00:00.000Z
 summary: Got out my black and green inks.
 excerpt: Got out my black and green inks.
 category: rock
-image: rock/stacks-flyer-dr-gogo-pocket-foxx-oej-jun-4-2003.jpg
+image: stacks-flyer-dr-gogo-pocket-foxx-oej-jun-4-2003.jpg
 tags:
   - post 
   - rock
@@ -28,5 +28,5 @@ I'm unsure of the year on this.
 
 I silk-screened flyers for it.
 
-![Stacks hand silk-screened flyer](/static/img/rock/stacks-flyer-dr-gogo-pocket-foxx-oej-jun-4-2003.jpg "Stacks hand silk-screened flyer")
+![Stacks hand silk-screened flyer](/static/images/stacks-flyer-dr-gogo-pocket-foxx-oej-jun-4-2003.jpg "Stacks hand silk-screened flyer")
 

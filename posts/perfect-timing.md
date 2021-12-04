@@ -14,8 +14,8 @@ Maybe we'll end up finishing this thing remotely, just sending the tracks to eac
 
 When we do finish, it'll probably join our other recordings on [Bandcamp](https://thestacksnola.bandcamp.com).
 
-![Andre in studio](/static/img/andre-in-studio-jun-6-2020.jpg)
+![Andre in studio](/static/images/andre-in-studio-jun-6-2020.jpg)
 
-![Andrew and Andre in studio](/static/img/andrew-and-andre-jun-6-2020.jpg)
+![Andrew and Andre in studio](/static/images/andrew-and-andre-jun-6-2020.jpg)
 
-![David in studio](/static/img/david-recording-with-stacks-at-andres-jun-6-2020.jpg)
+![David in studio](/static/images/david-recording-with-stacks-at-andres-jun-6-2020.jpg)

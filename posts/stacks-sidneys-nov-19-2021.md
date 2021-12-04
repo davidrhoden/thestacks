@@ -1,7 +1,7 @@
 ---
 title: The Stacks and Unsound Check at Sidney's Saloon, November 19, 2021
-date: 2021-10-28T17:00:00.000Z
-image: Stacks-Sidneys-Nov-21-2021.jpg
+date: 2021-11-19T22:00:00.000Z
+image: stacks/Stacks-Sidneys-Nov-19-2021.jpg
 tags:
   - post 
   - New Orleans
@@ -12,6 +12,8 @@ tags:
 ---
 
 The Stacks return to Sidney's Saloon with support from Unsound Check. (OK, that's our bass player's electronic musings.)
+
+This was an excellent show, mostly because the crowd, though not large, was _vocal_.
 
 We actually taped this one.
 

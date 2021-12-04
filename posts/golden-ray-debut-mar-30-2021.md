@@ -9,7 +9,7 @@ tags:
 
 It's been a while since we played or posted here, you can thank the pandemic. We're coming back though, in the form of a new band, a trio, we're calling "Golden Ray", after the 220-meter car carrier ship that capsized in the Atlantic Ocean.
 
-![Golden Ray band photo](/static/img/golden-ray-band-photo-apr-10-2021.jpeg)
+![Golden Ray band photo](/static/images/golden-ray-band-photo-apr-10-2021.jpeg)
 
 It's David and Andrew from The Stacks, along with new drummer Brian Tierney. We're doing half Andrew's songs and half Dave's, switching off on bass and guitar.
 

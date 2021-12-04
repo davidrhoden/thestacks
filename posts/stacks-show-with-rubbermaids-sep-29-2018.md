@@ -5,7 +5,7 @@ date: 2018-09-29T11:00:00.000Z
 summary: I made an animation to advertise the show.
 excerpt: I made an animation to advertise the show.
 category: rock
-image: rock/rubbermaids-thumbnail.png
+image: rubbermaids-thumbnail.png
 tags:
   - post 
   - New Orleans
@@ -19,7 +19,7 @@ tags:
 
 <div style="width: 100%; text-align: center;">
 <video controls loop>
-  <source type="video/mp4" src="/static/img/animations/mp4s/Siberia-180929-640.mp4"></source>
+  <source type="video/mp4" src="/static/images/animations/mp4s/Siberia-180929-640.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
 </div>

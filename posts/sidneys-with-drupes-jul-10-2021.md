@@ -7,7 +7,7 @@ tags:
   - rock
   - rock and roll
   - The Drupes
-  - Sidneys Saloon
+  - Sidney's Saloon
   - St. Bernard Avenue
 
 ---

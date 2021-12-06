@@ -10,7 +10,7 @@ tags:
   - rock
   - The Stacks
   - The Drupes
-  - Sidneys Saloon
+  - Sidney's Saloon
   - New Orleans
 
 ---

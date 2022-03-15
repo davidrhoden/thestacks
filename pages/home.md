@@ -14,10 +14,10 @@ tags:
 This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999.
 
 NEXT SHOW:
-October 28, 2021
-Bad Misters
+April 1, 2022
 The Stacks
-Saturn Bar
+with Rabbit Hatch
+Sidney's Saloon
 New Orleans, Louisiana
 
 <div class="slide-wrapper">

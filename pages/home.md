@@ -14,13 +14,14 @@ tags:
 This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999.
 
 NEXT SHOW:
-April 1, 2022
+May 12, 2022
 The Stacks
 with Rabbit Hatch
 Sidney's Saloon
 New Orleans, Louisiana
 
-<div class="slide-wrapper">
+<img src="/static/images/stacks-rabbit-hatch-may-12-2022.jpg" width="100%" alt="The Stacks and Rabbit Hatch at Saturn Bar May 12 2002">
+
 <ul id="shows">
     <li class="slide"><img src="/static/images/stacksatgasagasa.jpg" width="100%" alt="The Stacks New Orleans: Gasa Gasa">
     Stacks at Gasa Gasa, New Orleans.</li>

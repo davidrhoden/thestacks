@@ -14,10 +14,10 @@ tags:
 This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999.
 
 NEXT SHOW:
-May 12, 2022
+April 15, 2023
 The Stacks
-with Rabbit Hatch
-Sidney's Saloon
+House Party
+Lower Ninth Ward (if you know, you know.)
 New Orleans, Louisiana
 
 <img src="/static/images/stacks-rabbit-hatch-may-12-2022.jpg" width="100%" alt="The Stacks and Rabbit Hatch at Saturn Bar May 12 2002">
@@ -27,8 +27,6 @@ New Orleans, Louisiana
     Stacks at Gasa Gasa, New Orleans.</li>
     <li class="slide"><img src="/static/images/stacksdrumhead.jpg" width="100%" alt="The Stacks New Orleans: Drumhead">
     Stacks at Circle Bar, New Orleans</li>
-    <li class="slide"><img src="/static/images/flyersdrying.jpg" width="100%" alt="The Stacks New Orleans: Flyers">
-    It used to be legal and even fun to hang posters on telephone poles. Those were the days.<br>I would make screens for screen printing out of plain old notebook or typing paper. They'd last long enough to get 20 or thirty prints usually. But these were done withscreen resist fluid I think.</li>
     <li class="slide"><img src="/static/images/GoodsForServices.jpg" width="100%" alt="Goods For Services by Eli Underwood">
     Eli Underwood took this picture on the roof of an old creole cottage.</li>
     <li class="slide"><img src="/static/images/peopledancingatstacksbigtop.jpg" width="100%" alt="The Stacks New Orleans: People Dancing">
@@ -41,7 +39,9 @@ New Orleans, Louisiana
     <li class="slide"><img src="/static/images/stackstumbler.jpg" width="100%" alt="The Stacks New Orleans: Tumbler">
     More rooftop Holga action.</li>
     <li class="slide"><img src="/static/images/staxfly040717.jpg" width="100%" alt="The Stacks New Orleans: Flyer ">
-    We used to try so hard, when we tried at all. Silk-screened garbage.</li>
+    We used to try so hard, when we tried at all. Silk-screened cool stuff that wound up in the garbage.</li>
+    <li class="slide"><img src="/static/images/flyersdrying.jpg" width="100%" alt="The Stacks New Orleans: Flyers">
+    It used to be legal and even fun to hang posters on telephone poles. Those were the days.<br>I would make screens for screen printing out of plain old notebook or typing paper. They'd last long enough to get 20 or thirty prints usually. But these were done withscreen resist fluid I think.</li>
     <li class="slide"><img src="/static/images/stacksbigtop120911.jpg" width="100%" alt="The Stacks New Orleans: Big Top">The Stacks at the Big Top, New Orleans</li>
     <li class="slide"><img src="/static/images/stackshot.jpg" width="100%" alt="The Stacks New Orleans: Rooftop">
     More natural, spontaneous early Stacks, photographed by Eli.</li>

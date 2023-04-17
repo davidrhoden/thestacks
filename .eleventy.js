@@ -6,8 +6,6 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
 const slugify = require("slugify");
 
-
-
   module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -68,6 +66,20 @@ const slugify = require("slugify");
     return collection.getAllSorted().filter(function(item) {
       return item.inputPath.match(/^\.\/posts\//) !== null;
     });
+  });
+
+  eleventyConfig.addCollection("words", function(collection) {
+    const allWords = collection.getFilteredByTag("words");
+
+    for(let i = 0; i < allWords.length ; i++) {
+      const prevNote = allWords[i-1];
+      const nextNote = allWords[i + 1];
+
+      allWords[i].data["prevWords"] = prevNote;
+      allWords[i].data["nextWords"] = nextNote;
+    }
+
+    return allWords;
   });
 
   // Universal slug filter strips unsafe chars from URLs

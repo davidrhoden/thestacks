@@ -12,4 +12,4 @@ tags:
 
 ---
 
-![Stacks and Rabbit Hatch at Saturn Bar, May 12, 2022](/static/img/rock/stacks-rabbit-hatch-may-12-2022.jpg)
+![Stacks and Rabbit Hatch at Saturn Bar, May 12, 2022](/static/images/stacks-rabbit-hatch-may-12-2022.jpg)

@@ -19,7 +19,7 @@ tags:
 
 <div style="width: 100%; text-align: center;">
 <video controls loop>
-  <source type="video/mp4" src="/static/images/animations/mp4s/Siberia-180929-640.mp4"></source>
+  <source type="video/mp4" src="/static/video/Siberia-180929-640.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
 </div>

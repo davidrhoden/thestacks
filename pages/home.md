@@ -11,7 +11,7 @@ tags:
 ---
 # Welcome
 
-This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999.
+_This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999._
 
 NEXT SHOW:
 December 31, 2023

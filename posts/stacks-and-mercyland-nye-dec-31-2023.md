@@ -1,6 +1,6 @@
 ---
 title: Stacks opening for Mercyland in Athens New Year's Eve!
-date: 2021-04-25T17:00:00.000Z
+date: 2023-12-31T17:00:00.000Z
 summary: Opening for Shehehe and Andrew's other band, Mercyland at Athens' Nowhere Bar.
 excerpt: Opening for Shehehe and Andrew's other band, Mercyland at Athens' Nowhere Bar.
 image: stacks-athens-dec-31-2023/stacks-athens-dec-31-2023.jpg

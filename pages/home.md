@@ -24,8 +24,7 @@ at Nowhere Bar
 Athens, Georgia
 8 p.m.
 
-
-<img src="/static/images/stacks-rabbit-hatch-may-12-2022.jpg" width="100%" alt="The Stacks and Rabbit Hatch at Saturn Bar May 12 2002">
+<img src="//static/images/stacks-athens-dec-31-2023/stacks-athens-dec-31-2023.jpg" alt="Stacks opening for Mercyland in Athens New Years Eve!">
 
 <ul id="shows">
     <li class="slide"><img src="/static/images/stacksatgasagasa.jpg" width="100%" alt="The Stacks New Orleans: Gasa Gasa">

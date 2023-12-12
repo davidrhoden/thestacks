@@ -6,6 +6,7 @@ excerpt: Opening for Shehehe and Andrew's other band, Mercyland at Athens' Nowhe
 image: stacks-athens-dec-31-2023/stacks-athens-dec-31-2023.jpg
 tags:
   - post 
+  - news
   - music
   - Athens
   - Georgia

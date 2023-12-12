@@ -1,0 +1,49 @@
+---
+layout: layouts/base.njk
+section: words
+title: Words
+---
+
+{{ layoutContent | safe }}
+
+<!-- word loop -->
+
+{% for word in words %}
+<article class="flex">
+  <div class="left">
+    {% if word.data.image %}<img class="thumbnail" src="/static/img/{{ word.data.image }}?nf_resize=fit&w=160">{% endif %}
+  </div>
+  <div>
+  <h3>
+    <a href="{{ word.url }}">
+      {% if word.data.title %}
+        {{ word.data.title }}
+      {% else %}
+        Untitled
+      {% endif %}
+    </a>
+  </h3>
+  {% if word.data.summary %}
+    <p>
+      {{ word.data.summary }}
+    </p>
+  {% endif %}
+  <p>
+    <time datetime="{{ word.date | machineDate }}">
+      <small>{{ word.date | readableDate }} by {{ metadata.author.name }}</small>
+    </time>
+  </p>
+    {% if word.data.tags %}
+      <p>
+        {% for tag in word.data.tags %}
+          {%- if tag != "word" -%}
+            {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+          <a href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
+          {%- endif -%}
+        {% endfor %}
+      </p>
+    {% endif %}
+</div>
+</article>
+{% endfor %}
+{% include "components/pagination.njk" %}

@@ -1,0 +1,57 @@
+---
+layout: layouts/base.njk
+pageType: words
+section: words
+---
+
+<article>
+  <h1>{{ title }}</h1>
+  <p>
+    <small>
+      <time datetime="{{ date | machineDate }}"><span id="todays-date">{{ date | readableDate }}</span></time> by {{ metadata.author.name }}. Day <span id="days"></span>.
+    </small>
+  </p>
+
+  {{ layoutContent | safe }}
+
+  {% if tags %}
+    <p>
+    {% for tag in tags %}
+      {%- if tag != "note" -%}
+        {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+        <a href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
+      {%- endif -%}
+    {% endfor %}
+    </p>
+  {% endif %}
+
+</article>
+
+{% if nextWords.url %}
+  <p class="ctr">
+    <strong>Next</strong>: 
+    <a class="next" href="{{ nextWords.url }}">{{ nextWords.data.date | readableDate }}: {{ nextWords.data.title }}</a>
+  </p>
+{% endif %}
+{% if prevWords.url %}
+  <p class="ctr">
+    <strong>Previous</strong>: 
+    <a class="previous" href="{{ prevWords.url }}">{{ prevWords.data.date | readableDate }}: {{ prevWords.data.title }}</a>
+  </p>
+{% endif %}
+
+<nav>
+  <a href="/words/{{ url }}">← Words index</a>
+</nav>
+
+<ul class="pagination">
+    {%- for pageEntry in pagination.pages %}
+      <li><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
+    {%- endfor %}
+</ul>
+
+<ul class="pagination">
+{%- for pageEntry in pagination.pages %}
+  <li><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
+{%- endfor %}
+</ul>

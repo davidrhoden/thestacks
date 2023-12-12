@@ -14,11 +14,16 @@ tags:
 This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 1999.
 
 NEXT SHOW:
-April 15, 2023
+December 31, 2023
+NEW YEAR'S ROCKIN' EVE
+Mercyland
+Shehehe
 The Stacks
-House Party
-Lower Ninth Ward (if you know, you know.)
-New Orleans, Louisiana
+
+at Nowhere Bar
+Athens, Georgia
+8 p.m.
+
 
 <img src="/static/images/stacks-rabbit-hatch-may-12-2022.jpg" width="100%" alt="The Stacks and Rabbit Hatch at Saturn Bar May 12 2002">
 

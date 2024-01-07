@@ -82,6 +82,20 @@ const slugify = require("slugify");
     return allWords;
   });
 
+    eleventyConfig.addCollection("shows", function(collection) {
+    const allShows = collection.getFilteredByTag("shows");
+
+    for(let i = 0; i < allShows.length ; i++) {
+      const prevShow = allShows[i-1];
+      const nextShow = allShows[i + 1];
+
+      allShows[i].data["prevWords"] = prevShow;
+      allShows[i].data["nextWords"] = nextShow;
+    }
+
+    return allShows;
+  });
+
   // Universal slug filter strips unsafe chars from URLs
   eleventyConfig.addFilter("slugify", function(str) {
     return slugify(str, {

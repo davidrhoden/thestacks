@@ -6,7 +6,7 @@ excerpt: I don't remember it, somebody remind me.
 category: rock
 tags:
   - post 
-  - rock
+  - shows
   - The Stacks
   - Circle Bar
   - New Orleans

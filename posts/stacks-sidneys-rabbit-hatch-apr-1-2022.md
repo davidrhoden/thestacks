@@ -7,7 +7,7 @@ category: rock
 image: stacks-flyer-apr-1-2022.jpg
 tags:
   - post
-  - rock
+  - shows
   - The Stacks
   - Rabbit Hatch
   - Sidney's Saloon

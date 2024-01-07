@@ -6,7 +6,7 @@ excerpt: I don't have any record of this show that I know of either.
 category: rock
 tags:
   - post 
-  - rock
+  - shows
   - The Stacks
   - Mermaid Lounge
   - New Orleans

@@ -7,7 +7,7 @@ category: rock
 image: stacks-big-top-loverde-nov-9-2009.jpg
 tags:
   - post
-  - rock
+  - shows
   - New Orleans
   - Big Top
   - The Stacks

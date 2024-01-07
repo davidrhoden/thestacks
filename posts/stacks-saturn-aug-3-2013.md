@@ -7,7 +7,7 @@ category: rock
 image: stacks-flyer-saturn-aug-3-2013.jpg
 tags:
   - post 
-  - rock
+  - shows
   - shows
   - New Orleans
   - Saturn Bar

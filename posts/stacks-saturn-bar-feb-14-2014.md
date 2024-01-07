@@ -9,7 +9,7 @@ tags:
   - post 
   - New Orleans
   - The Stacks
-  - rock
+  - shows
   - Saturn Bar
 
 ---

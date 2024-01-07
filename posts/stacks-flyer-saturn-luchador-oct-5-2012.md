@@ -7,7 +7,7 @@ category: rock
 image: stacks-flyer-saturn-luchador-oct-5-2012.jpg
 tags:
   - post
-  - rock
+  - shows
   - The Stacks
   - Saturn Bar
   - New Orleans

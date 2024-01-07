@@ -7,7 +7,7 @@ category: rock
 image: stacks-flyer-jan-25-2014.jpg
 tags:
   - post 
-  - rock
+  - shows
   - The Stacks
   - Settly and The Disappointments
   - Rick Sinai

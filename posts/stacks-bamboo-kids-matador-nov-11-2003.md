@@ -6,7 +6,7 @@ excerpt: I did a radio interview with Miss Conduct about it.
 category: rock
 tags:
   - post 
-  - rock
+  - shows
   - The Stacks
   - Bamboo Kids
   - El Matador

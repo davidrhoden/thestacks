@@ -7,7 +7,7 @@ category: rock
 image: sidneys-saloon-sign.jpg
 tags:
   - post 
-  - rock
+  - shows
   - The Stacks
   - The Drupes
   - Sidney's Saloon

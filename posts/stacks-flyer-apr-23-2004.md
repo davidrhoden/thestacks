@@ -7,7 +7,7 @@ category: rock
 image: stacks-flyer-apr-23-2004.jpg
 tags:
   - post 
-  - rock
+  - shows
   - New Orleans
   - Lounge Lizards
   - The Stacks

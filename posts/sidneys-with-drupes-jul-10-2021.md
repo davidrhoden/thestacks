@@ -4,8 +4,7 @@ date: 2021-07-10T00:00:00.000Z
 summary: "The Drupes are great and we're trying to hang on."
 tags:
   - post
-  - rock
-  - rock and roll
+  - shows
   - The Drupes
   - Sidney's Saloon
   - St. Bernard Avenue

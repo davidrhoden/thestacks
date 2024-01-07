@@ -4,7 +4,7 @@ date: 2004-03-06T22:00:00.000Z
 category: rock
 tags:
   - post
-  - rock
+  - shows
   - New Orleans
   - Big Top
   - The Stacks

@@ -7,7 +7,7 @@ category: rock
 image: stacks-at-big-top-jan-9-2005.jpg
 tags:
   - post
-  - rock
+  - shows
   - New Orleans
   - Big Top
   - The Stacks

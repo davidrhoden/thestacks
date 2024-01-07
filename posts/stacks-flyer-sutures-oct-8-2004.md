@@ -8,7 +8,7 @@ image: stacks-flyer-sutures-oct-8-2004.jpg
 tags:
   - post 
   - New Orleans
-  - rock
+  - shows
   - Stacks
   - Lounge Lizards
   - design

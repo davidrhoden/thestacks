@@ -7,7 +7,7 @@ category: rock
 image: stacks-flyer-apr-24-2014.jpg
 tags:
   - post 
-  - rock
+  - shows
   - shows
 
 ---

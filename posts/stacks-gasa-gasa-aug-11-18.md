@@ -7,7 +7,7 @@ category: rock
 image: stacks-gasa-gasa-aug-11-2018.jpg
 tags:
   - post 
-  - rock
+  - shows
   - New Orleans
   - Gasa Gasa
   - Andrew Donaldson

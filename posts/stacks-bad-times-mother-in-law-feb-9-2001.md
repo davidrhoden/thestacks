@@ -7,7 +7,7 @@ category: rock
 image: stacks-flyer-bad-times-flyer-feb-9-2001.jpg
 tags:
   - post 
-  - rock
+  - shows
   - The Stacks
   - Ernie K-Doe
   - Antoinette K-Doe

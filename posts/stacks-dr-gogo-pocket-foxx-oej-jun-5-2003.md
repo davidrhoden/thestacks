@@ -7,7 +7,7 @@ category: rock
 image: stacks-flyer-dr-gogo-pocket-foxx-oej-jun-4-2003.jpg
 tags:
   - post 
-  - rock
+  - shows
   - The Stacks
   - Doctor-a-Go-Go
   - Pocket Foxx

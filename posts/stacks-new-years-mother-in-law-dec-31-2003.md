@@ -6,7 +6,7 @@ excerpt: I think this was the first of three New Yearses we played there.
 category: rock
 tags:
   - post 
-  - rock
+  - shows
   - The Stacks
   - Ernie K-Doe
   - Antoinette K-Doe

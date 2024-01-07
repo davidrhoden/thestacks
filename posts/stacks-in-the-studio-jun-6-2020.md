@@ -8,7 +8,7 @@ image: stacks-andrew-and-andre-jun-6-2020.jpg
 tags:
 
   - Stacks
-  - rock
+  - shows
   - recording
   - Andrew Donaldson
   - Andre Marquette

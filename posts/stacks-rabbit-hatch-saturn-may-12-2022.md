@@ -5,7 +5,7 @@ image: stacks-rabbit-hatch-may-12-2022.jpg
 tags:
   - post 
   - New Orleans
-  - rock
+  - shows
   - Saturn Bar
   - The Stacks
 

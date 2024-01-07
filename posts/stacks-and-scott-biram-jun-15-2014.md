@@ -8,7 +8,7 @@ image: stacks-flyer-scott-biram-jun-15-2014.jpg
 tags:
   - post 
   - New Orleans
-  - rock
+  - shows
   - Scott Biram
   - Stacks
   - Siberia

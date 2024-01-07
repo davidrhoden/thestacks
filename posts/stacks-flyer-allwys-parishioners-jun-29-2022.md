@@ -7,7 +7,7 @@ category: rock
 image: stacks-flyer-parishioners-allways-jun-29-2012.jpg
 tags:
   - post
-  - rock
+  - shows
   - The Stacks
   - Allways Lounge
   - New Orleans

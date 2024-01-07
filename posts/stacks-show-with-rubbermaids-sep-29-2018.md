@@ -9,7 +9,8 @@ image: rubbermaids-thumbnail.png
 tags:
   - post 
   - New Orleans
-  - rock
+  - shows
+  - shows
   - Rubber Maids
   - Egg Yolk Jubilee
   - Stacks

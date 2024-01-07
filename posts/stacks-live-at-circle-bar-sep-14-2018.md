@@ -7,7 +7,7 @@ category: rock
 image: stacks-live-at-circle-bar-sep-14-2018.jpg
 tags:
   - post 
-  - rock
+  - shows
   - The Stacks
   - Tom Beeman
   - Andrew Donaldson

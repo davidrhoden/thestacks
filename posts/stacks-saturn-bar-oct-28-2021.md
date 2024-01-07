@@ -5,7 +5,7 @@ category: rock
 image: drawing-stacks-oct-28-2021.jpg
 tags:
   - post 
-  - rock
+  - shows
   - The Stacks
   - Bad Misters
   - New Orleans

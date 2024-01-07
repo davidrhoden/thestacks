@@ -268,3 +268,15 @@ button {
 	h1.sub-title {
 		font-size: 1.2em;
 	}
+
+	.showdate {
+		width: 5em;
+	}
+
+	.shows article {
+		display: flex;
+		justify-content: left;
+		border-bottom: 0px solid #eee;
+		margin-bottom: .1em;
+		padding-bottom: 0;
+	}

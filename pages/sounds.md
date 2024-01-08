@@ -4,9 +4,7 @@ date: 2020-03-02T00:00:00.000Z
 permalink: /sounds/index.html
 eleventyNavigation:
   key: Sounds
-  order: 2
-tags:
-  - nav
+  order: 4
 navtitle: Sounds 
 ---
 

@@ -25,7 +25,7 @@ const slugify = require("slugify");
 
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
+    return DateTime.fromJSDate(dateObj).toFormat("LLL dd, yyyy");
   });
 
   // Date formatting (machine readable)

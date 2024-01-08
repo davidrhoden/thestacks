@@ -5,9 +5,8 @@
 
     <body class="{% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}">
         <header>
-            <h1 class="big-title">The Stacks</h1>
-            <h1 class="sub-title">New Orleans&rsquo; $$$$ Million-Dollar $$$$ Party Band</h1>
-            {% include "components/nav.njk" %}
+        <a class="home-link" href="/"><img class="main-logo" src="/static/images/logo-stacks-cyan.png" alt="The Stacks"></a>
+        <nav>{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}</nav>
         </header>
 
         <main>

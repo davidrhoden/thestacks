@@ -1,11 +1,9 @@
 ---
 layout: layouts/blog.njk
-title: News
+title: Stacks News
 eleventyNavigation:
-  key: About
-  order: 5
-tags:
-  - nav
+  key: News
+  order: 2
 navtitle: News
 date: 2017-01-01
 permalink: /news/index.html

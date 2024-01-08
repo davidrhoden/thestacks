@@ -15,11 +15,18 @@ tags:
 
 ---
 
-Well attended show. Some friends I invited came, and Andrew brough along his Homeowner's Association so this crowd was a little rowdy.
+Well attended show. Some friends I invited came, and Andrew brough along his Homeowner's Association buddies so this crowd was a little rowdy.
 
 ![Stacks at Sidney's Saloon](/static/images/stacks-sidneys-by-noy-jul-10-2021.jpg "Stacks at Sidney's Saloon")
 
 Stacks at Sidney's Saloon, photo by Noy Sourivavong.
 
-
 ![Sidney's Saloon sign](/static/images/sidneys-saloon-sign.jpg "Sidney's Saloon sign")
+
+Saturday, July 10, 2021
+Sidney's Saloon
+1200 St Bernard Avenue
+New Orleans, LA 70116
+The Drupes
+The Stacks
+9 p.m., $5

@@ -16,6 +16,6 @@ tags:
 ---
 
 
-![Stacks flyer for show with Scott Biram](/static/images/stacks-flyer-scott-biram-140615.jpg "Stacks flyer for show with Scott Biram")
+![Stacks flyer for show with Scott Biram](/static/images/stacks-flyer-scott-biram-jun-15-2014.jpg "Stacks flyer for show with Scott Biram")
 
 Austin Lucas was really bossy.

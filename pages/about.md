@@ -21,9 +21,9 @@ The Stacks are on Bandcamp at [https://thestacksnola.bandcamp.com/](https://thes
 The Story:
 -----
 
-The Stacks started because I (Dave) was in a pajama-wearing band called [The Sleepy Heads](https://sleepy-heads.bandcamp.com/album/sleepy-heads) that was very good, but contained at least two stubborn people (one being me). The other stubborn guy wanted to go in a more rehearsed direction, with _rehearsals_ and _choreography_ and songs that had set running times. I wanted to be more spontaneous, with new songs every show, and just let the songs go as long as people stayed out of the chairs.
+The Stacks started because I (Dave) was in a pajama-wearing band called [The Sleepy Heads](https://sleepy-heads.bandcamp.com/album/sleepy-heads) that was very good, but contained at least two stubborn people (one being me). The other stubborn guy wanted to go in a more rehearsed direction, with _rehearsals_ and _choreography_ and songs that had set running times. I wanted to be more spontaneous, with new songs every show, and just let the songs go as long as people stayed on their feet.
 
-We broke up, but we had a couple of gigs booked I wanted to play, so I said, "let's start a cover band" just for these two or three gigs. (The name <i>The Stacks</i> refers to the "stacks" of records we would be covering.) That was about twenty years ago. I guess we just forgot to stop.
+The Sleepy Heads broke up over this stubbornness, but we had a couple of gigs booked that I still wanted to play, so I said, "let's start a cover band" just for these two or three gigs. (The name <i>The Stacks</i> refers to the "stacks" of records we would be covering.) That was about twenty years ago. I guess we just forgot to stop.
 
  Current Stacks:
 -----
@@ -77,7 +77,7 @@ We broke up, but we had a couple of gigs booked I wanted to play, so I said, "le
  Ron Bocian
 
 -----
- An incomplete, alphabetical list of bands we have a degree of separation with (somebody who was in the Stacks played in one of these bands):
+ An incomplete, alphabetical list of bands we have a degree of separation with (i.e., somebody who was in the Stacks at one time also played in one of these bands at one time):
 -----
 
 Big Blue Marble

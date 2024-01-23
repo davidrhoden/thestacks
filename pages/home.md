@@ -18,6 +18,8 @@ at Holy Diver
 New Orleans, Louisiana
 9 p.m.
 
+<img src="/static/images/stacks-holy-diver-flyer-2-jan-25-2024.png" alt="The Stacks New Orleans: Holy Diver">
+
 <ul id="shows">
     <li class="slide"><img src="/static/images/stacksatgasagasa.jpg" alt="The Stacks New Orleans: Gasa Gasa">
     Stacks at Gasa Gasa, New Orleans.</li>

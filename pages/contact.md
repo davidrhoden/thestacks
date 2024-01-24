@@ -1,14 +1,18 @@
 ---
 layout: layouts/contact.njk
-title: Send a message to The Stacks
+title: Join The Stacks mailing list
 eleventyNavigation:
-  key: Contact
+  key: Contact/Mailing List
   order: 6
-navtitle: Contact
+navtitle: Contact/Mailing List
 section: contact
 date: 2018-01-01
 permalink: /contact/index.html
 ---
-Say anything you want. Ask us to play your baby shower, tell us what size t-shirts you think we should make, suggest songs for us to cover that we haven't already thought of.
 
-We will add your email to our mailing list, if you provide it here, unless you tell us not to. We never sell or share the list and you can always click a link to unsubscribe.
+Get mail from the Stacks. E-mail anyway. We never sell or share the list and you can always click a link to unsubscribe.
+
+ <h1>Join The Stacks mailing list</h1>
+{% include "components/buttondown.njk" %}
+
+If you just want to contact us about something, send an email to david@davidrhoden.com.

@@ -4,6 +4,7 @@
 	--blue: #18abc0;
 /*	--blue: #67c018;*/
 	--cyan: #1495A7;
+	--orangered: orangered;
 }
 
 *, *:before, *:after {
@@ -45,19 +46,6 @@ article {
 	border-bottom: 1px solid var(--white);
 }
 
-.shows article {
-	margin-bottom: 0;
-	padding-bottom: 0;
-	border-bottom: 0px solid black;
-	border-bottom: 1px solid var(--black);
-
-.home main img, .news main img, .news main article img {
-	max-width: 100%;
-}
-
-.about img {
-	width: auto;
-}
 
 footer {
 	font-family: sans-serif;
@@ -73,8 +61,15 @@ header {
 	padding: 1em;
 }
 
-header nav ul :first-child {
-	margin-left: 0;
+header .flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+header nav {
+  display: none;
 }
 
 header nav li {
@@ -89,6 +84,24 @@ header nav li a[href]:not(:hover) {
 header nav li a[data-current="current item"] {
 	font-weight: 700;
 	text-decoration: underline;
+}
+
+header nav.is-active {
+  display: block;
+}
+
+header nav.is-active ul {
+	display: block;
+  padding: 0;
+  list-style: none;
+}
+
+header nav.is-active ul li {
+	display: block;
+	font-size: 2em;
+  list-style: none;
+  padding: .4em;
+  text-align: center;
 }
 
 iframe {
@@ -132,10 +145,10 @@ ul {
 	width: auto;
 }
 
-.slide {
-	border-bottom: 1px dashed #696969;
-    margin: 1em 0;
-    padding: 1.2em 0;
+.mobile-menu {
+  display: flex;
+  align-items: center;
+  justify-content: right;
 }
 
 .showlist img, .showdate img {
@@ -143,6 +156,30 @@ ul {
 	height: 12px;
 	margin-right: 1em;
 	width: auto;
+}
+
+#shows img {
+	max-width: 100%;
+}
+
+.shows article {
+	margin-bottom: 0;
+	padding-bottom: 0;
+	border-bottom: 0px solid black;
+	border-bottom: 1px solid var(--black);
+
+.home main img, .news main img, .news main article img {
+	max-width: 100%;
+}
+
+.about img {
+	width: auto;
+}
+
+.slide {
+	border-bottom: 1px dashed #696969;
+    margin: 1em 0;
+    padding: 1.2em 0;
 }
 
 .slide img{
@@ -246,4 +283,7 @@ a[rel="tag"]:hover {
 
 a[rel="tag"]:last-child {
 	margin-right: 0;
+}
+
+@media screen and (min-width:600px) {
 }

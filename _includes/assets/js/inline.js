@@ -8,6 +8,14 @@ if (window.netlifyIdentity) {
   });
 }
 
+$(document).ready(function(){
+  var $hamburger = $(".hamburger");
+  $hamburger.on("click", function(e) {
+    $hamburger.toggleClass("is-active");
+    $("nav").toggleClass("is-active");
+  });
+});
+
 $(document).ready(function() {
   
   var currentImage = 0;

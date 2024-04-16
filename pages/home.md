@@ -9,16 +9,23 @@ navtitle: Home
 _This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 2001._
 
 NEXT SHOW:
-January 25, 2024
-Redondo Beat
-Luxurious Faux Furs
+April 13, 2024
+Happy Talk Band
 The Stacks
 
-at Holy Diver
+at Checkpoint Charlie
 New Orleans, Louisiana
 9 p.m.
 
-<img style="width: 100%; max-width: 37.5em" src="/static/images/stacks-holy-diver-flyer-2-jan-25-2024.png" alt="The Stacks New Orleans: Holy Diver">
+<img style="width: 100%; max-width: 37.5em" src="/static/images/Stacks-HTB-checkpoints-apr-13-2024.jpg" alt="The Stacks New Orleans: Checkpoint Charlie">
+
+Join our mailing list!
+<iframe
+    scrolling="no"
+    style="width:100%!important;height:220px;border:1px #ccc solid !important"
+    src="https://buttondown.email/davidrhoden?as_embed=true"
+></iframe>
+
 
 <ul id="shows">
     <li class="slide"><img src="/static/images/stacksatgasagasa.jpg" alt="The Stacks New Orleans: Gasa Gasa">

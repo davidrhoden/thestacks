@@ -9,15 +9,8 @@ navtitle: Home
 _This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 2001._
 
 NEXT SHOW:
-April 13, 2024
-Happy Talk Band
-The Stacks
+<img style="width: 100%; max-width: 37.5em" src="/static/images/stacks-animation-jun-15-2024-v7.gif" alt="The Stacks New Orleans: CPirogue's Whiskey Bayou">
 
-at Checkpoint Charlie
-New Orleans, Louisiana
-9 p.m.
-
-<img style="width: 100%; max-width: 37.5em" src="/static/images/Stacks-HTB-checkpoints-apr-13-2024.jpg" alt="The Stacks New Orleans: Checkpoint Charlie">
 
 Join our mailing list!
 <iframe
@@ -28,6 +21,7 @@ Join our mailing list!
 
 
 <ul id="shows">
+    <li class="slide"><img style="width: 100%; max-width: 37.5em" src="/static/images/Stacks-HTB-checkpoints-apr-13-2024.jpg" alt="The Stacks New Orleans: Checkpoint Charlie"></ul>
     <li class="slide"><img src="/static/images/stacksatgasagasa.jpg" alt="The Stacks New Orleans: Gasa Gasa">
     Stacks at Gasa Gasa, New Orleans.</li>
     <li class="slide"><img src="/static/images/stacksdrumhead.jpg" alt="The Stacks New Orleans: Drumhead">

@@ -8,21 +8,7 @@ eleventyNavigation:
 navtitle: Videos
 ---
 
-Stacks play &ldquo;(You Got My Mind Goin&rsquo; In The) Wrong Direction&rdquo; in Athens Georgia, December 31, 2023.
-(Video by Dan Matthews, and it'll only be here as long as he leaves it on Facebook.)
------
 
-  <!-- Load Facebook SDK for JavaScript -->
-  <div id="fb-root"></div>
-  <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
-
-  <!-- Your embedded video player code -->
-  <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/179020371969433/" data-width="640" data-show-text="false" data-allowfullscreen="true">
-    <div class="fb-xfbml-parse-ignore">
-    </div>
-  </div>
-
------
 
 The Stacks and Bad Misters at Siberia, New Orleans.
 -----

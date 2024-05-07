@@ -80,16 +80,17 @@ The Sleepy Heads broke up over this stubbornness, but we had a couple of gigs bo
  An incomplete, alphabetical list of bands we have a degree of separation with (i.e., somebody who was in the Stacks at one time also played in one of these bands at one time):
 -----
 
+<a href="https://davidrhoden.bandcamp.com/album/all-night" target="_blank">All-Night Movers</a>
 Big Blue Marble
-Bipolaroid
+<a href="https://bipolaroid.bandcamp.com/" target="_blank">Bipolaroid</a>
 Egg Yolk Jubilee
 Four Star Volcanic
 Guzzard
-Hi-Balls
-Jimmy and The Wolfpack
+<a href="https://hiballs.bandcamp.com/" target="_blank">Hi-Balls</a>
+<a href="https://jimmyandthewolfpack.bandcamp.com/" target="_blank">Jimmy and The Wolfpack</a>
 La Brea Stompers
 Long Low Rumble
-Mercyland
+<a href="https://mercyland-athens.bandcamp.com/" target="_blank">Mercyland</a>
 O-Pines
 Picnic
 St. Lorelei

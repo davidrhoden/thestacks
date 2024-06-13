@@ -11,7 +11,7 @@ navtitle: Home
 
 _This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 2001._
 
-Join our mailing list!
+Join our mailing list -- never miss another show.
 <iframe
     scrolling="no"
     style="width:100%!important;height:220px;border:1px #ccc solid !important"

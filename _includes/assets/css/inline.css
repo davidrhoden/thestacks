@@ -141,6 +141,10 @@ ul {
 	text-align: center;
 }
 
+.home main img {
+	max-width: 100%;
+}
+
 .main-logo{
 	height: 100px;
 	width: auto;
@@ -150,6 +154,10 @@ ul {
   display: flex;
   align-items: center;
   justify-content: right;
+}
+
+.news main img, .news main article img, .news-featured-image {
+	max-width: 100%;
 }
 
 .showlist img, .showdate img {
@@ -168,10 +176,6 @@ ul {
 	padding-bottom: 0;
 	border-bottom: 0px solid black;
 	border-bottom: 1px solid var(--black);
-
-.home main img, .news main img, .news main article img {
-	max-width: 100%;
-}
 
 .about img {
 	width: auto;

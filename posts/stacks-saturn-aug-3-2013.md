@@ -4,7 +4,7 @@ date: 2013-08-03T21:00:00.000Z
 excerpt: Was this the show with Mystery Girl?
 summary: Was this the show with Mystery Girl?
 category: rock
-image: stacks-flyer-saturn-aug-3-2013.jpg
+image: flyers/stacks-flyer-saturn-aug-3-2013.jpg
 tags:
   - post 
   - shows
@@ -15,7 +15,7 @@ tags:
 
 ---
 
-![flyer from Stacks show](/static/images/stacks-flyer-saturn-aug-3-2013.jpg "flyer from Stacks show")
+![flyer from Stacks show](/static/images/flyers/stacks-flyer-saturn-aug-3-2013.jpg "flyer from Stacks show")
 
 I think this was the show where the bartender Bridget pulled the plug on the opening band because she was ready for us to come on, aggravating the singer.
 

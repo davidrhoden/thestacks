@@ -4,7 +4,7 @@ date: 2001-02-09T22:00:00.000Z
 summary: I don't think Bad Times played this show.
 excerpt: I don't think Bad Times played this show.
 category: rock
-image: stacks-flyer-bad-times-flyer-feb-9-2001.jpg
+image: flyers/stacks-flyer-bad-times-flyer-feb-9-2001.jpg
 tags:
   - post 
   - shows
@@ -26,4 +26,4 @@ Did Bad Times actually play though?
 Damn, it was a long time ago. Can somebody remind me what happened? Usually I just need a hint.
 
 
-![Flyer for Stacks and Bad Times at Mother-In-Law Lounge, February 9, 2001.](static/images/stacks-flyer-bad-times-flyer-feb-9-2001.jpg)
+![Flyer for Stacks and Bad Times at Mother-In-Law Lounge, February 9, 2001.](static/images/flyers/stacks-flyer-bad-times-flyer-feb-9-2001.jpg)

@@ -4,7 +4,7 @@ date: 2014-04-14T21:00:00.000Z
 excerpt: Lauren Oglesby brought all the people.
 summary: Lauren Oglesby brought all the people.
 category: rock
-image: stacks-flyer-apr-24-2014.jpg
+image: flyers/stacks-flyer-apr-24-2014.jpg
 tags:
   - post 
   - shows
@@ -12,6 +12,6 @@ tags:
 
 ---
 
-![flyer from Stacks show](/static/images/stacks-flyer-apr-24-2014.jpg "flyer from Stacks show")
+![flyer from Stacks show](/static/images/flyers/stacks-flyer-apr-24-2014.jpg "flyer from Stacks show")
 
 Lauren Oglesby brought all the people.

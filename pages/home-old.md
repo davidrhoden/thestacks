@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
 date: 2016-01-01T00:00:00.000Z
-permalink: /
+permalink: /home-old/index.html
 navtitle: Home
 ---
 # Welcome to the home of The Stacks, New Orleans' $$$$ Million-Dollar $$$$ Party Band.

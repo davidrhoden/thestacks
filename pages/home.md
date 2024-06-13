@@ -7,9 +7,7 @@ navtitle: Home
 
 <img style="width: 100%; max-width: 37.5em" src="/static/images/flyers/stacks-flyer-pirogues-jun-15-2024.jpg" alt="The Stacks New Orleans: Pirogue's Whiskey Bayou)">
 
-# Welcome to the home of The Stacks, New Orleans' $$$$ Million-Dollar $$$$ Party Band.
-
-_This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 2001._
+# Next show: Saturday, June 15, 2024, at Pirogue's Whiskey Bayou in Arabi, Louisiana. No cover, two sets. 8 - 10 p.m. SHARP.
 
 Join our mailing list -- never miss another show.
 <iframe

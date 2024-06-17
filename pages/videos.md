@@ -1,5 +1,5 @@
 ---
-title: Stacks Promotional Videos
+title: 'Stacks Promotional Videos: New Orleans Million Dollar Party Band'
 date: 2020-01-01T00:00:00.000Z
 permalink: /videos/index.html
 eleventyNavigation:
@@ -8,17 +8,18 @@ eleventyNavigation:
 navtitle: Videos
 ---
 
- LIVE! Audience video from Stacks at Pirogue's Whiskey Bayou, Arabi, Louisiana.
+LIVE! Audience video from Stacks at Pirogue's Whiskey Bayou, Arabi, Louisiana.
 -----
 
 <video src="/static/video/stacks-at-pirogues-jun-15-2024.mp4" width="100%" max-width="640px" autobuffer autoloop loop controls></video>
 
-
+-----
  Stacks at Pirogue's Whiskey Bayou, Arabi, Louisiana.
 -----
 
- <img src="/static/video/stacks-animation-jun-15-2024-sq.gif" width="100%" max-width="640px"alt="Stacks with Lorelei at Gasa Gasa animation" />
+<img src="/static/video/stacks-animation-jun-15-2024-sq.gif" style="width: 100%; max-width: 640px;" alt="Stacks with Lorelei at Gasa Gasa animation" />
 
+-----
 The Stacks and Bad Misters at Siberia, New Orleans.
 -----
 
@@ -43,4 +44,4 @@ The Stacks and Bad Misters at Siberia, New Orleans.
  Stacks and Lorelei at Gasa Gasa, New Orleans.
 -----
 
- <img src="/static/images/gasagasa180807_02.gif" width="100%" alt="Stacks with Lorelei at Gasa Gasa animation" />
+ <img src="/static/images/gasagasa180807_02.gif" alt="Stacks with Lorelei at Gasa Gasa animation" style="width: 100%; max-width: 640px;"/>

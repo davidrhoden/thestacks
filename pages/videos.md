@@ -11,7 +11,7 @@ navtitle: Videos
  LIVE! Audience video from Stacks at Pirogue's Whiskey Bayou, Arabi, Louisiana.
 -----
 
-<video src="/static/video/stacks-at-pirogues-jun-15-2024.mp4" autobuffer autoloop loop controls></video>
+<video src="/static/video/stacks-at-pirogues-jun-15-2024.mp4"  width="640" autobuffer autoloop loop controls></video>
 
 
  Stacks at Pirogue's Whiskey Bayou, Arabi, Louisiana.

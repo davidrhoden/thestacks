@@ -12,7 +12,7 @@ tags:
   - Holy Diver
   - Sidney's Saloon
   - Redondo Beat
-  - Luxurious Faux furs
+  - Luxurious Faux Furs
   - shows
 
 ---

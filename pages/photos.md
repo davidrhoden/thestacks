@@ -144,6 +144,7 @@ navtitle: Photos
 
 ![Stacks at Lounge Lizards, New Orleans, April 23, 2005, maybe?](/static/images/flyers/stacks-sophisticats-flyer-apr-23.jpg)
 
+![Stacks at Sluggo's, Pensacola, Florida, January 7, 2005 (?)](/static/images/stacks-at-sluggos-jan-7-2005.jpg)
 
 -----
 

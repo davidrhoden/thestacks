@@ -239,16 +239,16 @@ ul {
 
 	.image-width-640-or-100-percent p {
 		display: flex;
-		align-items: center;
+		align-items: flex-start;
 		height: 150px;
-		margin: 0;
-		margin-right: 6px;
+		margin: 0 6px 6px 0;
 		width: 150px;
 		overflow: hidden;
 	}
 
 	.image-width-640-or-100-percent img {
 		width: 150px;
+		height: auto;
 	}
 
 	.showdate {

@@ -3,7 +3,7 @@ layout: layouts/contact.njk
 title: Join The Stacks mailing list
 eleventyNavigation:
   key: Contact/Mailing List
-  order: 6
+  order: 7
 navtitle: Contact/Mailing List
 section: contact
 date: 2018-01-01

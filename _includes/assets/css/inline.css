@@ -109,6 +109,10 @@ iframe {
 	width: 100%;
 }
 
+.image-width-640-or-100-percent img {
+	width: 100%;
+}
+
 main {
 	padding: 1em 1em 2em 1em;
 	width: 100vw;
@@ -214,6 +218,37 @@ ul {
 
 	footer {
 		width: 100%;
+	}
+
+.image-width-640-or-100-percent {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+
+.image-width-640-or-100-percent h2 {
+	align-self: flex-start;
+	width: 100%;
+}
+
+.image-width-640-or-100-percent hr {
+	align-self: flex-end;
+	width: 100%;
+}
+
+	.image-width-640-or-100-percent p {
+		display: flex;
+		align-items: center;
+		height: 150px;
+		margin: 0;
+		margin-right: 6px;
+		width: 150px;
+		overflow: hidden;
+	}
+
+	.image-width-640-or-100-percent img {
+		width: 150px;
 	}
 
 	.showdate {

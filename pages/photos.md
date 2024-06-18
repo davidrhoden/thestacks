@@ -8,6 +8,9 @@ eleventyNavigation:
 navtitle: Photos
 ---
 
+
+_We beg your pardon; this page is a work in progress. If you want to enlarge the pictures, right-click and choose "Open Image in New Tab". Thanks for your patience. --The Stacks._
+
 <div class="image-width-640-or-100-percent">
 
 ## 2024

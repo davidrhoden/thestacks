@@ -18,7 +18,7 @@ navtitle: Photos
 
 ![Dave's new custom picks](/static/images/custom-clayton-picks.jpeg)
 
-![Flyer for Stacks at Holy Diver, January 25, 2024](/static/images/flyers/stacks-holy-diver-flyer-2-jan-25-2024.png)
+![Flyer for Stacks at Holy Diver, January 25, 2024](/static/images/flyers/stacks-holy-diver-flyer-2-jan-25-2024.jpg)
 
 -----
 
@@ -175,7 +175,7 @@ navtitle: Photos
 
 ![FStacks at Big Top, New Orleans, March 6, 2004](/static/images/stacks-at-big-top-curtains-mar-6-2004.jpg)
 
-![Stacks at Big Top, New Orleans, March 6, 2004](/static/images/stacks-at-big-top-mar-6-2004.jpg)
+![Stacks at Big Top, New Orleans, March 6, 2004](/static/images/stacks-at-big-top-blurry-mar-6-2004.jpg)
 
 
 -----

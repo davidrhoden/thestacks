@@ -10,7 +10,7 @@ navtitle: Home
 # Next show: Thursday, June 27, 2024, with Luxurious Faux Furs and Blue Flames, at Holy Diver, on St. Bernard Avenue in New Orleans, Louisiana.
 Stacks'll be on second if you need to save on a sitter but just come out and have fun; we'll be there.
 
-Advance tickets: https://tickets.holdmyticket.com/tickets/434961
+Advance tickets ($8): https://tickets.holdmyticket.com/tickets/434961
 
 -----
 

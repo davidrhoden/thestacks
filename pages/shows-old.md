@@ -4,11 +4,7 @@ date: 2020-05-01T00:00:00.000Z
 permalink: /shows-old/index.html
 ---
 
-Dr. a-Go-Go 
-The Stacks
-Pocket Foxx
-Friday June 5, 2003
-One-Eyed Jacks
+
 
 
 The Stacks Reunion 
@@ -55,6 +51,13 @@ THE STACKS
 LOUNGE LIZARDS
 200 Decatur Street 
 April 23, 2004
+
+
+Dr. a-Go-Go
+The Stacks
+Pocket Foxx
+Friday June 4, 2004
+One-Eyed Jacks
 
 
 THE STACKS

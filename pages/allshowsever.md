@@ -18,13 +18,7 @@ navtitle: All Shows Ever
         <a class="prev" href="#"><<</a><br />
         <a class="next" href="#">>></a><br />
     <ul><br />
-      <li class="slide">
-Dr. a-Go-Go <br />
-The Stacks<br />
-Pocket Foxx<br />
-Friday June 5, 2003<br />
-One-Eyed Jacks<br />
-</li>
+
 <li class="slide">
 The Stacks Reunion <br />
 Friday June 20, 2003<br />
@@ -73,6 +67,15 @@ LOUNGE LIZARDS<br />
 April 23, 2004<br />
 <br />
 </li>
+
+<li class="slide">
+Dr. a-Go-Go <br />
+The Stacks<br />
+Pocket Foxx<br />
+Friday June 4, 2004<br />
+One-Eyed Jacks<br />
+</li>
+
 <li class="slide">
 THE STACKS<br />
 MONDAY JUNE 28,2004<br />

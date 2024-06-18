@@ -5,11 +5,16 @@ permalink: /
 navtitle: Home
 ---
 
-<img style="width: 100%; max-width: 37.5em" src="/static/images/flyers/stacks-flyer-pirogues-jun-15-2024.jpg" alt="The Stacks New Orleans: Pirogue's Whiskey Bayou)">
+<img style="width: 100%; max-width: 37.5em" src="/static/images/flyers/stacks-flyer-lufofu-holy-diver-jun-27-2024.jpg" alt="The Stacks New Orleans: Pirogue's Whiskey Bayou)">
 
-# Next show: Saturday, June 15, 2024, at Pirogue's Whiskey Bayou in Arabi, Louisiana. No cover, two sets. 8 - 10 p.m. SHARP.
+# Next show: Thursday, June 27, 2024, with Luxurious Faux Furs and Blue Flames, at Holy Diver, on St. Bernard Avenue in New Orleans, Louisiana.
+Stacks'll be on second if you need to save on a sitter but just come out and have fun; we'll be there.
 
-Join our mailing list -- never miss another show.
+Advance tickets: https://tickets.holdmyticket.com/tickets/434961
+
+-----
+
+Join the mailing list -- never miss another show.
 <iframe
     scrolling="no"
     style="width:100%!important;height:220px;border:1px #ccc solid !important"

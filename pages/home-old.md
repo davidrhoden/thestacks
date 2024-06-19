@@ -9,7 +9,7 @@ navtitle: Home
 _This is the website for The Stacks from New Orleans, Louisiana. We don't care if other bands use the name, there are a lot of us, but we've been using it since 2001._
 
 NEXT SHOW:
-<img style="width: 100%; max-width: 37.5em" src="/static/images/stacks-animation-jun-15-2024-v7.gif" alt="The Stacks New Orleans: CPirogue's Whiskey Bayou)">
+<img style="width: 100%; max-width: 37.5em" src="/static/images/stacks-animation-jun-15-2024-v7.gif" alt="The Stacks New Orleans: Pirogue's Whiskey Bayou)">
 
 
 Join our mailing list!

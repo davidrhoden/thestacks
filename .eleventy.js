@@ -16,7 +16,7 @@ const slugify = require("slugify");
     url: "https://thestackswebsite.com",
     author: "David Rhoden/The Stacks",
     twitter: "davidrhoden",
-    image: "https://thestackswebsite.com/static/images/stacksbygpatgasa1.jpg"
+    image: "https://thestackswebsite.com/static/img/stacksbygpatgasa1.jpg"
   });
 
   // eleventyConfig.addPlugin(lazyImagesPlugin);
@@ -107,7 +107,7 @@ const slugify = require("slugify");
 
 
   // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("static/images");
+  eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("static/video");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");

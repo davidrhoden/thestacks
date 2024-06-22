@@ -28,5 +28,5 @@ I'm unsure of the year on this.
 
 I silk-screened flyers for it.
 
-![Stacks hand silk-screened flyer](/static/images/flyers/stacks-flyer-dr-gogo-pocket-foxx-oej-jun-4-2003.jpg "Stacks hand silk-screened flyer")
+![Stacks hand silk-screened flyer](/static/img/flyers/stacks-flyer-dr-gogo-pocket-foxx-oej-jun-4-2003.jpg "Stacks hand silk-screened flyer")
 

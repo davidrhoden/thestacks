@@ -101,7 +101,7 @@ Sunrise : Sunset
 Endorsements
 -----
 
-[![Clayton USA logo](/static/images/clayton_logo1.png)](https://www.steveclayton.com/)
+[![Clayton USA logo](/static/img/clayton_logo1.png)](https://www.steveclayton.com/)
 
 David Rhoden is a compensated endorser of [Clayton USA guitar picks](https://www.steveclayton.com/).
 They're the best.

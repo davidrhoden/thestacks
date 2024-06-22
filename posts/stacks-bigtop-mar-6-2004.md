@@ -14,7 +14,7 @@ tags:
 
 ---
 
-![Stacks at Big Top](/static/images/stacks-at-big-top-curtains-mar-6-2004.jpg "Stacks at Big Top")
+![Stacks at Big Top](/static/img/stacks-at-big-top-curtains-mar-6-2004.jpg "Stacks at Big Top")
 
-![Stacks at Big Top](/static/images/stacks-at-big-top-blurry-mar-6-2004.jpg "Stacks at Big Top")
+![Stacks at Big Top](/static/img/stacks-at-big-top-blurry-mar-6-2004.jpg "Stacks at Big Top")
 

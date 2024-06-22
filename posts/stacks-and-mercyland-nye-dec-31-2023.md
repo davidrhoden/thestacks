@@ -17,7 +17,7 @@ tags:
 
 ---
 
-![Stacks opening for Mercyland in Athens New Year's Eve!](/static/images/stacks-athens-dec-31-2023/stacks-athens-dec-31-2023.jpg "Stacks opening for Mercyland in Athens New Year's Eve!")
+![Stacks opening for Mercyland in Athens New Year's Eve!](/static/img/stacks-athens-dec-31-2023/stacks-athens-dec-31-2023.jpg "Stacks opening for Mercyland in Athens New Year's Eve!")
 
 Mercyland
 Shehehe

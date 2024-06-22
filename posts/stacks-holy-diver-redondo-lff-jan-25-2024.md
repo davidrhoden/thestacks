@@ -17,7 +17,7 @@ tags:
 
 ---
 
-![flyer for Stacks with Redondo Beat and Luxurious Faux Furs](/static/images/flyers/stacks-holy-diver-flyer-2-jan-25-2024.jpg "flyer for Stacks with Redondo Beat and Luxurious Faux Furs")
+![flyer for Stacks with Redondo Beat and Luxurious Faux Furs](/static/img/flyers/stacks-holy-diver-flyer-2-jan-25-2024.jpg "flyer for Stacks with Redondo Beat and Luxurious Faux Furs")
 
 Redondo Beat at 9.
 Stacks at 10.

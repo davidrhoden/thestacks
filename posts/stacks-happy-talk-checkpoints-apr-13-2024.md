@@ -15,7 +15,7 @@ tags:
 
 ---
 
-![The Stacks New Orleans: Checkpoint Charlie](/static/images/flyers/Stacks-HTB-checkpoints-apr-13-2024.jpg "The Stacks New Orleans: Checkpoint Charlie")
+![The Stacks New Orleans: Checkpoint Charlie](/static/img/flyers/Stacks-HTB-checkpoints-apr-13-2024.jpg "The Stacks New Orleans: Checkpoint Charlie")
 Happy Talk
 The Stacks
 

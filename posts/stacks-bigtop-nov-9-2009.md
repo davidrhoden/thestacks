@@ -14,6 +14,6 @@ tags:
 
 ---
 
-![Stacks at Big Top](/static/images/stacks-big-top-loverde-nov-9-2009.jpg "Stacks at Big Top")
+![Stacks at Big Top](/static/img/stacks-big-top-loverde-nov-9-2009.jpg "Stacks at Big Top")
 
 <figcaption>Photo by Gary LoVerde.</figcaption>

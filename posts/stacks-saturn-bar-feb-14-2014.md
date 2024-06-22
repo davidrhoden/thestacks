@@ -14,6 +14,6 @@ tags:
 
 ---
 
-![Stacks flyer from Saturn bar](/static/images/flyers/stacks-flyer-feb-14-2014.jpg "Stacks flyer from Saturn bar")
+![Stacks flyer from Saturn bar](/static/img/flyers/stacks-flyer-feb-14-2014.jpg "Stacks flyer from Saturn bar")
 
 Right now I can't particularly remember this show.

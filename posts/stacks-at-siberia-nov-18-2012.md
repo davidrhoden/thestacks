@@ -13,6 +13,6 @@ tags:
 
 ---
 
-![Stacks at Siberia with Happy Talk and a play flyer](/static/images/flyers/stacks-flyer-luchador-11-18-2012.jpg "Stacks at Siberia with Happy Talk and a play flyer")
+![Stacks at Siberia with Happy Talk and a play flyer](/static/img/flyers/stacks-flyer-luchador-11-18-2012.jpg "Stacks at Siberia with Happy Talk and a play flyer")
 
 Always fun to play Siberia, and always fun to play with Happy Talk Band. Was this really the last time? We planned a show for 2019 at Gasa Gasa but my band fell apart.

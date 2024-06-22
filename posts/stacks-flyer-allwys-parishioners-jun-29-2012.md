@@ -15,6 +15,6 @@ tags:
 
 ---
 
-![Stacks flyer with for show with The Parishioners](/static/images/flyers/stacks-flyer-parishioners-allways-jun-29-2012.jpg "Stacks flyer with for show with The Parishioners")
+![Stacks flyer with for show with The Parishioners](/static/img/flyers/stacks-flyer-parishioners-allways-jun-29-2012.jpg "Stacks flyer with for show with The Parishioners")
 
 I always liked playing this club. Parishioners were good too.

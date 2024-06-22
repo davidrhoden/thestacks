@@ -16,11 +16,11 @@ tags:
 
 <div id="viewport">
 
-![The Stacks played at The Big Top.](/static/images/stacks-big-top-sep-11-2012/peopledancingatstacks.jpg "The Stacks played at The Big Top.")
+![The Stacks played at The Big Top.](/static/img/stacks-big-top-sep-11-2012/peopledancingatstacks.jpg "The Stacks played at The Big Top.")
 
-![The Stacks played at The Big Top.](/static/images/stacks-big-top-sep-11-2012/stacksbigtop120911.jpg "The Stacks played at The Big Top.")
+![The Stacks played at The Big Top.](/static/img/stacks-big-top-sep-11-2012/stacksbigtop120911.jpg "The Stacks played at The Big Top.")
 
-![The Stacks played at The Big Top.](/static/images/stacks-big-top-sep-11-2012/flyer120911.png "The Stacks played at The Big Top.")
+![The Stacks played at The Big Top.](/static/img/stacks-big-top-sep-11-2012/flyer120911.png "The Stacks played at The Big Top.")
 
 </div>
 <div class="flex row-reverse space-between">

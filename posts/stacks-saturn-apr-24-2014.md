@@ -12,6 +12,6 @@ tags:
 
 ---
 
-![flyer from Stacks show](/static/images/flyers/stacks-flyer-apr-24-2014.jpg "flyer from Stacks show")
+![flyer from Stacks show](/static/img/flyers/stacks-flyer-apr-24-2014.jpg "flyer from Stacks show")
 
 Lauren Oglesby brought all the people.

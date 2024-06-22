@@ -16,4 +16,4 @@ tags:
 
 ---
 
-![flyer for stacks show](/static/images/flyers/stacks-flyer-jan-25-2014.jpg "flyer for stacks show")
+![flyer for stacks show](/static/img/flyers/stacks-flyer-jan-25-2014.jpg "flyer for stacks show")

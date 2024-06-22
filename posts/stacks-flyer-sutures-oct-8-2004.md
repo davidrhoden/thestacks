@@ -14,7 +14,7 @@ tags:
   - design
 ---
 
-![rock poster advertising Stacks and Sutures](/static/images/flyers/stacks-flyer-sutures-oct-8-2004.jpg "rock poster advertising Stacks and Sutures")
+![rock poster advertising Stacks and Sutures](/static/img/flyers/stacks-flyer-sutures-oct-8-2004.jpg "rock poster advertising Stacks and Sutures")
 
 We kinda liked Lounge Lizards, though it had a weird sideways layout, where the bar was on the left wall as you went in, and the band was on the right. It was across the street from the House of Blues club on Decatur. Not sure what's there now. It had an upstairs dressing room for the bands! 
 

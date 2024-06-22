@@ -19,7 +19,7 @@ tags:
 
 ---
 
-![Stacks flyer for Lounge Lizards show](/static/images/flyers/stacks-flyer-apr-23-2004.jpg "Stacks flyer for Lounge Lizards show")
+![Stacks flyer for Lounge Lizards show](/static/img/flyers/stacks-flyer-apr-23-2004.jpg "Stacks flyer for Lounge Lizards show")
 
 At this time my ex-wife had run off and joined a band called Big Blue Marble that played "nice music". they were very good. the leader, Dave Fera would make these pretty posters where he would cut up Simplicity patterns and old fashion mags, of which he had a big supply in his van. They were nice posters, really classed up the phone poles. So of course I had to make fun of them. 
 

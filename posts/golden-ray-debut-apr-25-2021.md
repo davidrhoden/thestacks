@@ -20,21 +20,21 @@ tags:
 
 My new band with Andrew Donaldson and Brian Tierney (Brain Tyranny) made its debut on Gina's stage on Saturday April 25, after about four reschedulings. With George Wilde and Lo Amps also appearing. I forgot to take a picture of George.
 
-![Golden Ray at Sister Street Stage](/static/images/golden-ray/golden-ray-04-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/golden-ray/golden-ray-04-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
-![Golden Ray at Sister Street Stage](/static/images/golden-ray/golden-ray-03-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/golden-ray/golden-ray-03-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
 Live photos by Gina Phillips.
 
-![Golden Ray at Sister Street Stage](/static/images/golden-ray/golden-ray-01-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/golden-ray/golden-ray-01-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
-![Golden Ray at Sister Street Stage](/static/images/golden-ray/golden-ray-brian-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/golden-ray/golden-ray-brian-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
-![Golden Ray at Sister Street Stage](/static/images/golden-ray/golden-ray-02-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/golden-ray/golden-ray-02-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
 Live photos by Larry Tierney.
 
-![Golden Ray at Sister Street Stage](/static/images/golden-ray/lo-amps-katie-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/golden-ray/lo-amps-katie-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
 Lo Amps photo by David Rhoden.
-![Show poster design by David Rhoden](/static/images/flyers/SisterStreetStage-Apr-25-2021.png)
+![Show poster design by David Rhoden](/static/img/flyers/SisterStreetStage-Apr-25-2021.png)

@@ -19,7 +19,7 @@ The Saturn Bar reopened with new management, and a really nice new sound system.
 
 A guy in the crowd handed me this drawing he did of me, Andrew, and Chan singing "I'm Wild".
 
-![drawing of The Stacks at Saturn Bar, October 28, 2021.](/static/images/drawing-stacks-oct-28-2021.jpg)
+![drawing of The Stacks at Saturn Bar, October 28, 2021.](/static/img/drawing-stacks-oct-28-2021.jpg)
 
 <div style="width: 100%; text-align: center;">
   <video style="width: 640px; text-align: center;" controls loop>

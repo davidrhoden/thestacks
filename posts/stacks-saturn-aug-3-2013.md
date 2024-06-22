@@ -15,9 +15,9 @@ tags:
 
 ---
 
-![flyer from Stacks show](/static/images/flyers/stacks-flyer-saturn-aug-3-2013.jpg "flyer from Stacks show")
+![flyer from Stacks show](/static/img/flyers/stacks-flyer-saturn-aug-3-2013.jpg "flyer from Stacks show")
 
 I think this was the show where the bartender Bridget pulled the plug on the opening band because she was ready for us to come on, aggravating the singer.
 
-![Dave playing with Stacks at Saturn Bar](/static/images/stacks-m-raeder-aug-3-2013.jpg "Dave playing with Stacks at Saturn Bar")
+![Dave playing with Stacks at Saturn Bar](/static/img/stacks-m-raeder-aug-3-2013.jpg "Dave playing with Stacks at Saturn Bar")
 <<figcaption>Photo by Michael Raeder</figcaption>

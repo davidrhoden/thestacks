@@ -15,9 +15,9 @@ tags:
 
 ---
 
-![The Stacks New Orleans: Pirogue's Whiskey Bayou](/static/images/flyers/stacks-flyer-pirogues-jun-15-2024.jpg "The Stacks New Orleans: Pirogue's Whiskey Bayou")
+![The Stacks New Orleans: Pirogue's Whiskey Bayou](/static/img/flyers/stacks-flyer-pirogues-jun-15-2024.jpg "The Stacks New Orleans: Pirogue's Whiskey Bayou")
 
-![The Stacks New Orleans: Pirogue's Whiskey Bayou](/static/images/stacks-animation-jun-15-2024-v7.gif  "The Stacks New Orleans: Pirogue's Whiskey Bayou")
+![The Stacks New Orleans: Pirogue's Whiskey Bayou](/static/img/stacks-animation-jun-15-2024-v7.gif  "The Stacks New Orleans: Pirogue's Whiskey Bayou")
 
 The Stacks (two sets!)
 8 - 10 p.m. (strictly observed)

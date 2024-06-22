@@ -15,4 +15,4 @@ tags:
 
 ---
 
-![Stacks flyer with a luchador on it](/static/images/flyers/stacks-flyer-saturn-luchador-oct-5-2012.jpg "Stacks flyer with a luchador on it")
+![Stacks flyer with a luchador on it](/static/img/flyers/stacks-flyer-saturn-luchador-oct-5-2012.jpg "Stacks flyer with a luchador on it")

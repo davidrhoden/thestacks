@@ -17,7 +17,7 @@ tags:
 
 ---
 
-![Stacks album cover](/static/images/stacks-live-at-circle-bar-sep-14-2018.jpg "Stacks")
+![Stacks album cover](/static/img/stacks-live-at-circle-bar-sep-14-2018.jpg "Stacks")
 
 This was a really good show, our last one with Steve and Tom. The Banter selections are good cause we had a feisty fan.
 
@@ -25,7 +25,7 @@ Here's a little animation I made to promote the show:
 
 <div style="width: 100%; text-align: center;">
 <video controls loop>
-  <source type="video/mp4" src="/static/images/animations/mp4s/Stacks-CircleBar-sep-14-2018.mp4"></source>
+  <source type="video/mp4" src="/static/img/animations/mp4s/Stacks-CircleBar-sep-14-2018.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
 </div>

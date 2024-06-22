@@ -5,7 +5,7 @@ permalink: /
 navtitle: Home
 ---
 
-<img style="width: 100%; max-width: 37.5em" src="/static/images/flyers/stacks-flyer-lufofu-color-1-jun-27-2024.jpg" alt="The Stacks New Orleans: Holy Diver)">
+<img style="width: 100%; max-width: 37.5em" src="/static/img/flyers/stacks-flyer-lufofu-color-1-jun-27-2024.jpg" alt="The Stacks New Orleans: Holy Diver)">
 
 # Next show: Thursday, June 27, 2024, with Luxurious Faux Furs and Blue Flames, at Holy Diver, on St. Bernard Avenue in New Orleans, Louisiana.
 Stacks'll be on second if you need to save on a sitter but just come out and have fun; we'll be there.

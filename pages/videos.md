@@ -44,4 +44,4 @@ The Stacks and Bad Misters at Siberia, New Orleans.
  Stacks and Lorelei at Gasa Gasa, New Orleans.
 -----
 
- <img src="/static/images/gasagasa180807_02.gif" alt="Stacks with Lorelei at Gasa Gasa animation" style="width: 100%; max-width: 640px;"/>
+ <img src="/static/img/gasagasa180807_02.gif" alt="Stacks with Lorelei at Gasa Gasa animation" style="width: 100%; max-width: 640px;"/>

@@ -8,8 +8,6 @@ tags:
   - shows
   - Saturn Bar
   - The Stacks
-
-
 ---
 
 ![Stacks and Rabbit Hatch at Saturn Bar, May 12, 2022](/static/img/flyers/stacks-rabbit-hatch-may-12-2022.jpg)

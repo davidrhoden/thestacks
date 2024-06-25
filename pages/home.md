@@ -15,11 +15,6 @@ Advance tickets ($8): https://tickets.holdmyticket.com/tickets/434961
 -----
 
 Join the mailing list -- never miss another show.
-<iframe
-    scrolling="no"
-    style="width:100%!important;height:220px;border:1px #ccc solid !important"
-    src="https://buttondown.email/davidrhoden?as_embed=true"
-></iframe>
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/thestacks"

@@ -20,4 +20,20 @@ Join the mailing list -- never miss another show.
     style="width:100%!important;height:220px;border:1px #ccc solid !important"
     src="https://buttondown.email/davidrhoden?as_embed=true"
 ></iframe>
+
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/thestacks"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/thestacks?tag=holy-diver-jun-25-2024', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.email/refer/thestacks" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
 </div>

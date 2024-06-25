@@ -20,11 +20,15 @@ Join the mailing list -- never miss another show.
   action="https://buttondown.email/api/emails/embed-subscribe/thestacks"
   method="post"
   target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/thestacks?tag=holy-diver-jun-25-2024', 'popupwindow')"
+  onsubmit="window.open('https://buttondown.email/thestacks', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Enter your email</label>
+  <label for="bd-email">Enter your email (required)</label>
   <input type="email" name="email" id="bd-email" />
+  <label for="full_name">Your name</label>
+  <input type="text" name="metadata__full_name" id="full_name" />
+  <label for="mailing_address">Your mailing address (if you want occasional snail mail)</label>
+  <input type="text" name="metadata__mailing_address" id="mailing_address" />
   <input type="submit" value="Subscribe" />
   <p>
     <a href="https://buttondown.email/refer/thestacks" target="_blank">Powered by Buttondown.</a>

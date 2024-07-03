@@ -1,5 +1,5 @@
 ---
-title: Stacks play Thursday, June 27 at Holy Diver with Luxurious Faux Furs and Blue Flames.
+title: Stacks play Thursday, June 27 at Holy Diver with Luxurious Faux Furs and Blue Shades.
 date: 2024-06-27T17:00:00.000Z
 summary: June 29, 2024. 9 - 12 p.m.
 image: flyers/stacks-flyer-lufofu-color-1-jun-27-2024.jpg
@@ -11,7 +11,7 @@ tags:
   - Louisiana
   - Holy Diver
   - Luxurious Faux Furs
-  - Blue Flames
+  - Blue Shades
   - shows
 
 ---
@@ -22,7 +22,7 @@ Advance tickets ($8): https://tickets.holdmyticket.com/tickets/434961
 
 Luxurious Faux Furs
 The Stacks
-Blue Flames (a Cramps tribute!)
+Blue Shades (a Cramps tribute!)
 9 - 12 p.m.
 June 27, 2024
 Holy Diver

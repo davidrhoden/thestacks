@@ -9,6 +9,9 @@ navtitle: Home
 
 # Next show: Friday, July 12, 2024, with Mercyland, at the Intracoastal Club, on Main Street in Houma, Louisiana.
 
+<img style="width: 100%; max-width: 37.5em" src="/static/img/flyers/stacks-flyer-mercyland-poor-boys-jul-13-2024.jpg" alt="The Stacks with Mercyland and Sunrise:Sunset in New Orleans: Poor Boys Bar)">
+
+# Then: Saturday, July 13, 2024, with Mercyland and Sunrise:Sunset, at Poor Boys Bar, on St. Bernard Avenue in New Orleans, Louisiana.
 -----
 
 Join the mailing list -- never miss another show.
@@ -17,7 +20,7 @@ Join the mailing list -- never miss another show.
   action="https://buttondown.email/api/emails/embed-subscribe/thestacks"
   method="post"
   target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/thestacks?tag=houma-july-12-2024', 'popupwindow')"
+  onsubmit="window.open('https://buttondown.email/thestacks?tag=july-12-13-2024', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
   <label for="bd-email">Enter your email (required)</label>

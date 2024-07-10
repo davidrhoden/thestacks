@@ -10,7 +10,7 @@ pagination:
     - posts
 permalink: /tags/{{ tag | slugify }}/
 layout: layouts/base.njk
-renderData:
+eleventyComputed:
   title: "Tagged “{{ tag }}”"
 ---
 

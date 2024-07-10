@@ -1,25 +1,27 @@
 ---
-title: Stacks play Friday, July 12, 2024 in Houma, Louisiana with Mercyland.
-date: 2024-07-12T17:00:00.000Z
+title: Stacks play Friday, July 13, 2024 at Poor Boys Bar in New Orleans with Mercyland and Sunrise:Sunset.
+date: 2024-07-13T17:00:00.000Z
 summary:
-image: flyers/stacks-flyer-mercyland-houma-jul-12-2024.jpg
+image: flyers/stacks-flyer-mercyland-poor-boys-jul-13-2024.jpg
 tags:
-  - post 
+  - post
   - news
   - music
-  - Houma
+  - New Orleans
   - Louisiana
-  - Intracoastal Club
+  - Poor Boys Bar
   - Mercyland
+  - 'Sunrise:Sunset'
   - shows
 
 ---
 
-![The Stacks in Houma: Intracoastal Club, July 12 2024](/static/img/flyers/stacks-flyer-mercyland-houma-jul-12-2024.jpg "The Stacks in Houma: Intracoastal Club, July 12 2024")
+![The Stacks in Houma: Intracoastal Club, July 12 2024](/static/img/flyers/stacks-flyer-mercyland-poor-boys-jul-13-2024.jpg "The Stacks in New Orleans: Poor Boys Bar, July 13 2024")
 
 Mercyland
+Sunrise:Sunset
 The Stacks
-July 12, 2024
-Intracoastal Club
-8448 Main Street
-Houma, Louisiana
+July 13, 2024
+Poor Boys Bar
+1328 St. Bernard Avenue
+New Orleans, Louisiana

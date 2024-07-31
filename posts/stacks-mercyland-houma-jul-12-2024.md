@@ -5,13 +5,13 @@ summary:
 image: flyers/stacks-flyer-mercyland-houma-jul-12-2024.jpg
 tags:
   - post 
+  - shows
   - news
   - music
   - Houma
   - Louisiana
   - Intracoastal Club
   - Mercyland
-  - shows
 
 ---
 

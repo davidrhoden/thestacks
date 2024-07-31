@@ -5,13 +5,10 @@ permalink: /
 navtitle: Home
 ---
 
-<img style="width: 100%; max-width: 37.5em" src="/static/img/flyers/stacks-flyer-mercyland-houma-jul-12-2024.jpg" alt="The Stacks with Mercyland in Houma: Intracoastal Club)">
+<img style="width: 100%; max-width: 37.5em" src="/static/img/flyers/stacks-flyer-pirogues-oct-26-2024.jpg" alt="The Stacks at Pirogue's Whiskey Bayou, October 26, 2024">
 
-# Next show: Friday, July 12, 2024, with Mercyland, at the Intracoastal Club, on Main Street in Houma, Louisiana.
+# Next show: Friday, October 26, 2024, at Pirogue's Whiskey Bayou, 6940 St. Claude Avenue, in Arabi, Louisiana.
 
-<img style="width: 100%; max-width: 37.5em" src="/static/img/flyers/stacks-flyer-mercyland-poor-boys-jul-13-2024.jpg" alt="The Stacks with Mercyland and Sunrise:Sunset in New Orleans: Poor Boys Bar)">
-
-# Then: Saturday, July 13, 2024, with Mercyland and Sunrise:Sunset, at Poor Boys Bar, on St. Bernard Avenue in New Orleans, Louisiana.
 -----
 
 Join the mailing list -- never miss another show.

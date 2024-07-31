@@ -20,7 +20,7 @@ Join the mailing list -- never miss another show.
   onsubmit="window.open('https://buttondown.email/thestacks?tag=july-12-13-2024', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Enter your email (required)</label>
+  <label for="bd-email">Enter your email (this is the only required field)</label>
   <input type="email" name="email" id="bd-email" />
   <label for="full_name">Your name</label>
   <input type="text" name="metadata__full_name" id="full_name" />

@@ -7,7 +7,7 @@ navtitle: Home
 
 <img style="width: 100%; max-width: 37.5em" src="/static/img/flyers/stacks-flyer-pirogues-oct-26-2024.jpg" alt="The Stacks at Pirogue's Whiskey Bayou, October 26, 2024">
 
-# Next show: Friday, October 26, 2024, at Pirogue's Whiskey Bayou, 6940 St. Claude Avenue, in Arabi, Louisiana.
+# Next show: Saturday, December 12, 2024, at Pirogue's Whiskey Bayou, 6940 St. Claude Avenue, in Arabi, Louisiana. Watch this space for details.
 
 -----
 

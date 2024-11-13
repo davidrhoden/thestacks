@@ -5,8 +5,6 @@ permalink: /shows-old/index.html
 ---
 
 
-
-
 The Stacks Reunion 
 Friday June 20, 2003
 Circle Bar
@@ -301,12 +299,10 @@ Allways Lounge
 New Orleans, LA 70117
 10 p.m.
 
-
 Wednesday, May 1, 2013
 Chaz Fest
 St Claude Avenue, New Orleans, LA
 More details to come.
-
 
 Friday, April 5
 Circle Bar
@@ -314,13 +310,11 @@ Lee Circle, New Orleans, LA
 The Stacks with Primitive Boys
 10 p.m., $5
 
-
 Friday, March 29
 Saturn Bar
 3067 St Claude Avenue, New Orleans, LA
 The Stacks with Mystery Girl
 10 p.m., $5
-
 
 Saturday, July 10, 2021
 Sidney's Saloon
@@ -329,4 +323,13 @@ New Orleans, LA 70116
 The Drupes
 The Stacks
 9 p.m., $5
+
+July 13, 2024
+Mercyland
+Sunrise:Sunset
+The Stacks
+Poor Boys Bar
+1328 St. Bernard Avenue
+New Orleans, Louisiana
+
 

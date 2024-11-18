@@ -5,7 +5,9 @@ permalink: /
 navtitle: Home
 ---
 
-# Next show: Saturday, December 12, 2024, at Pirogue's Whiskey Bayou, 6940 St. Claude Avenue, in Arabi, Louisiana. Watch this space for details.
+# Next show: Saturday, November 23, 2024 -- priate party in Baton Rouge, LA.
+
+# Next show after that: Saturday, December 12, 2024, at Pirogue's Whiskey Bayou, 6940 St. Claude Avenue, in Arabi, Louisiana. Watch this space for details.
 
 -----
 

@@ -5,13 +5,13 @@ permalink: /
 navtitle: Home
 ---
 
-# Next show: Saturday, November 23, 2024 -- priate party in Baton Rouge, LA.
+# Next show: Saturday, November 23, 2024 &endash; private party in Baton Rouge, LA. It's quite exclusive.
 
 # Next show after that: Saturday, December 12, 2024, at Pirogue's Whiskey Bayou, 6940 St. Claude Avenue, in Arabi, Louisiana. Watch this space for details.
 
 -----
 
-Join the mailing list -- never miss another show.
+Join the mailing list &endash; never miss another show.
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/thestacks"

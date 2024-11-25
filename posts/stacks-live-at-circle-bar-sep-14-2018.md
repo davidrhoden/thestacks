@@ -4,7 +4,7 @@ date: 2018-09-14T21:00:00.000Z
 summary: "link to (excellent) Bandcamp recording in post"
 excerpt: "link to (excellent) Bandcamp recording in post"
 category: rock
-image: /static/img/stacks-live-at-circle-bar-sep-14-2018.jpg
+image: /static/img/stacks-circle-bar-sep-14-2018.jpg
 tags:
   - post 
   - shows
@@ -17,7 +17,7 @@ tags:
 
 ---
 
-![Stacks album cover](/static/img/stacks-live-at-circle-bar-sep-14-2018.jpg "Stacks")
+![Stacks album cover](/static/img/stacks-circle-bar-sep-14-2018.jpg "Stacks")
 
 This was a really good show, our last one with Steve and Tom. The Banter selections are good cause we had a feisty fan.
 

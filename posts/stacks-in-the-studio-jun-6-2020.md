@@ -4,7 +4,7 @@ date: 2020-06-06T18:00:00.000Z
 summary: Our drummer is moving away so we're recording while we can. We started the day the lockdowns happened.
 excerpt: Our drummer is moving away so we're recording while we can. We started the day the lockdowns happened.
 category: rock
-image: stacks-andrew-and-andre-jun-6-2020.jpg
+image: /static/img/stacks-andrew-and-andre-jun-6-2020.jpg
 tags:
 
   - Stacks

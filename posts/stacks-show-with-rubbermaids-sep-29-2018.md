@@ -5,7 +5,7 @@ date: 2018-09-29T11:00:00.000Z
 summary: I made an animation to advertise the show.
 excerpt: I made an animation to advertise the show.
 category: rock
-image: rubbermaids-thumbnail.png
+image: /static/img/rubbermaids-thumbnail.png
 tags:
   - post 
   - New Orleans

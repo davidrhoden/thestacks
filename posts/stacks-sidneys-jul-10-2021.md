@@ -4,7 +4,7 @@ date: 2021-07-10T22:00:00.000Z
 summary: The Drupes are just great.
 excerpt: The Drupes are just great.
 category: rock
-image: sidneys-saloon-sign.jpg
+image: /static/img/sidneys-saloon-sign.jpg
 tags:
   - post 
   - shows

@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![The Stacks in Arabi: Pirogue's Whiskey Bayou, Dec 7 2024](/static/img/flyers/stacks-flyer-pirogues-dec-7-2024.pngg "The Stacks in Arabi: Pirogue's Whiskey Bayou, Dec 7 2024")
+![The Stacks in Arabi: Pirogue's Whiskey Bayou, Dec 7 2024](/static/img/flyers/stacks-flyer-pirogues-dec-7-2024.png "The Stacks in Arabi: Pirogue's Whiskey Bayou, Dec 7 2024")
 
 The Stacks
 Devember 7, 2024

@@ -3,7 +3,7 @@ title: Stacks played the Saturn Bar, without any rehearsal.
 date: 2008-01-21T11:00:00.000Z
 summary: I think it was the Stacks. It was probably a sort of Stacks/Wolfpack hybrid.
 excerpt: I think it was the Stacks. It was probably a sort of Stacks/Wolfpack hybrid.
-image: stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-chandelicious.jpg
+image: /static/img/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-chandelicious.jpg
 tags:
   - post 
   - New Orleans

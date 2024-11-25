@@ -2,7 +2,7 @@
 title: The Stacks played the Saturn Bar with Bad Misters.
 date: 2021-10-28T21:00:00.000Z
 category: rock
-image: drawing-stacks-oct-28-2021.jpg
+image: /static/img/drawing-stacks-oct-28-2021.jpg
 tags:
   - post 
   - shows
@@ -36,3 +36,5 @@ A guy in the crowd handed me this drawing he did of me, Andrew, and Chan singing
 </video>
 </div>
 <figcaption>Little ad I did for the Stacks/Bad Misters show.</figcaption>
+
+[Facebook event](https://www.facebook.com/events/236831201755410)

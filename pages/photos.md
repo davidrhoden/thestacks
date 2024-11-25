@@ -15,8 +15,7 @@ _We beg your pardon; this page is a work in progress. If you want to enlarge the
 
 ## 2024
 
-![Flyer for Stacks at Pirogue's December 7, 2024](/static/img/flyers/stacks-flyer-pirogues-dec-7-2024.pn
-g)
+![Flyer for Stacks at Pirogue's December 7, 2024](/static/img/flyers/stacks-flyer-pirogues-dec-7-2024.png)
 
 ![Flyer for Stacks at Pirogue's October 26, 2024](/static/img/flyers/stacks-flyer-pirogues-oct-26-2024.jpg)
 
@@ -64,7 +63,7 @@ g)
 
 ![Stacks at Allways Lounge, New Orleans, July 1 2013. Photo by Ray Surinck.](/static/img/stacks-allways-by-ray-jul-1-2013.jpg)
 
-![Flyer for Stacks at Hi-Ho Lounge, New Orleans, April 24, 2014](/static/img/stacks-flyer-hi-ho-apr-24-2014.jpg)
+![Flyer for Stacks at Hi-Ho Lounge, New Orleans, April 24, 2014](/static/img/flyers/stacks-flyer-hi-ho-apr-24-2014.jpg)
 
 -----
 
@@ -76,17 +75,17 @@ g)
 
 ![Flyer for Stacks at Chazfest, New Orleans, May 1, 2013.](/static/img/stacks-chaz-fest-may-1-2013.png)
 
-![Flyer for Stacks at Allways Lounge, New Orleans, November 16, 2012](/static/img/stacks-flyer-lundigras-feb-11-2013.jpg)
+![Flyer for Stacks at Allways Lounge, New Orleans, November 16, 2012](/static/img/flyers/stacks-flyer-lundigras-feb-11-2013.jpg)
 
 -----
 
 ## 2012
 
-![Flyer for Stacks at Saturn Bar, New Orleans, November, 2012](/static/img/stacks-flyer-luchador-nov-18-2012.jpg)
+![Flyer for Stacks at Saturn Bar, New Orleans, November, 2012](/static/img/flyers/stacks-flyer-luchador-nov-18-2012.jpg)
 
-![Flyer for Stacks at Saturn Bar, New Orleans, October 5, 2012](/static/img/stacks-flyer-saturn-luchador-oct-5-2012.jpg)
+![Flyer for Stacks at Saturn Bar, New Orleans, October 5, 2012](/static/img/flyers/stacks-flyer-saturn-luchador-oct-5-2012.jpg)
 
-![Flyer for Stacks at Cafe Istanbul, New Orleans, September 26 2012](/static/img/stacks-flyer-istanbul-sep-26-2012.png)
+![Flyer for Stacks at Cafe Istanbul, New Orleans, September 26 2012](/static/img/flyers/stacks-flyer-istanbul-sep-26-2012.png)
 
 ![Stacks at Big Top, Clio Street, New Orleans, September 11 2012](/static/img/stacks-big-top-sep-11-2012/stacks-big-top-sep-11-2012.jpg)
 
@@ -94,7 +93,7 @@ g)
 
 ![Stacks at Big Top, Clio Street, New Orleans, September 11 2012](/static/img/stacks-big-top-sep-11-2012/people-dancing-at-stacks-big-top-sep-11-2012.jpg)
 
-![Stacks at Allways Lounge, New Orleans, June 29, 2012](/static/img/stacks-flyer-parishioners-allways-jun-29-2012.jpg)
+![Stacks at Allways Lounge, New Orleans, June 29, 2012](/static/img/flyers/stacks-flyer-parishioners-allways-jun-29-2012.jpg)
 
 ![Stacks at The Compound on Rendon for Rose Fest, New Orleans, April 12 2012](/static/img/stacks-rose-fest-with-alan-02-apr-12-2012.jpg)
 
@@ -164,9 +163,9 @@ g)
 
 ## 2004
 
-![Flyer for Stacks at Circle Bar, New Orleans, December 3, 2004](/static/img/stacks-flyer-dec-3-2004.jpg)
+![Flyer for Stacks at Circle Bar, New Orleans, December 3, 2004](/static/img/flyers/stacks-flyer-dec-3-2004.jpg)
 
-![Flyer for Stacks at Lounge Lizards, New Orleans, October 8, 2004](/static/img/stacks-flyer-sutures-oct-8-2004.jpg)
+![Flyer for Stacks at Lounge Lizards, New Orleans, October 8, 2004](/static/img/flyers/stacks-flyer-sutures-oct-8-2004.jpg)
 
 ![Stacks at Dr. Cliff's Driveway, New Orleans, September 4, 2004](/static/img/stacks-dr-cliff-sep-4-2004.jpg)
 
@@ -178,13 +177,13 @@ g)
 
 ![Flyer for Stacks at Circle Bar, New Orleans, August 31, 2004](/static/img/stacks-circle-bar-aug-31-2004/stacks-flyer-blue-aug-31-2004.jpg)
 
-![Flyer for Stacks at Mother-In-Law Lounge, New Orleans, July 17, 2004](/static/img/stacks-flyer-mother-in-law-jul-17-2004.jpg)
+![Flyer for Stacks at Mother-In-Law Lounge, New Orleans, July 17, 2004](/static/img/flyers/stacks-flyer-mother-in-law-jul-17-2004.jpg)
 
-![Flyer for Stacks at One Eyed Jack's, New Orleans, June 4, 2004](/static/img/stacks-flyer-oej-jun-4-2004.jpg)
+![Flyer for Stacks at One Eyed Jack's, New Orleans, June 4, 2004](/static/img/flyers/stacks-flyer-oej-jun-4-2004.jpg)
 
-![Flyer for Stacks at One Eyed Jack's, June 4, 2004](/static/img/stacks-flyer-dr-gogo-pocket-foxx-oej-jun-4-2004.jpg)
+![Flyer for Stacks at One Eyed Jack's, June 4, 2004](/static/img/flyers/stacks-flyer-dr-gogo-pocket-foxx-oej-jun-4-2004.jpg)
 
-![Flyer for Stacks at Lounge Lizards, New Orleans, April 23, 2004](/static/img/stacks-flyer-lounge-lizards-apr-23-2004.jpg)
+![Flyer for Stacks at Lounge Lizards, New Orleans, April 23, 2004](/static/img/flyers/stacks-flyer-lounge-lizards-apr-23-2004.jpg)
 
 ![Flyers for Stacks at Big Top, New Orleans, March 6, 2004](/static/img/stacks-apparatus-mar-6-2004.jpg)
 
@@ -207,13 +206,13 @@ g)
 
 ![ CD cover of Stacks at Circle Bar, New Orleans, May 18, 2002](/static/img/stacks-circle-bar-rec-may-18-2002.jpg)
 
-![Flyer for Stacks at Circle Bar, New Orleans, April 5, 2002](/static/img/stacks-flyer-circle-apr-5-2002.png)
+![Flyer for Stacks at Circle Bar, New Orleans, April 5, 2002](/static/img/flyers/stacks-flyer-circle-apr-5-2002.png)
 
-![Silkscreen flyer for Stacks at Big Top, New Orleans, February 23, 2002](/static/img/stacks-flyer-big-top-lundi-gras.jpg)
+![Silkscreen flyer for Stacks at Big Top, New Orleans, February 23, 2002](/static/img/flyers/stacks-flyer-big-top-lundi-gras.jpg)
 
-![Flyer for Stacks at Mother In Law, New Orleans, February 9, 2002](/static/img/stacks-flyer-bad-times-flyer-feb-9-2001.jpg)
+![Flyer for Stacks at Mother In Law, New Orleans, February 9, 2002](/static/img/flyers/stacks-flyer-bad-times-flyer-feb-9-2001.jpg)
 
-![Flyer for Stacks at Mother In Law, New Orleans, February 9, 2002](/static/img/stacks-flyer-mil-feb-9-2002.jpg)
+![Flyer for Stacks at Mother In Law, New Orleans, February 9, 2002](/static/img/flyers/stacks-flyer-mil-feb-9-2002.jpg)
 
 ![Stacks rehearsing at Fountainebleu, New Orleans, date unknown, circa 2002](/static/img/stacks-ron-sara-goofin.jpg)
 

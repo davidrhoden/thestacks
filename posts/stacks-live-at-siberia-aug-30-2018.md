@@ -3,7 +3,7 @@ title: The Stacks played Siberia
 date: 2018-08-30T17:00:00.000Z
 summary: Here's the recording from that show.
 excerpt: Here's the recording from that show.
-image: stacks-siberia-aug-30-2018.jpg
+image: /static/img/stacks-siberia-aug-30-2018.jpg
 tags:
   - post 
   - New Orleans

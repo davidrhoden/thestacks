@@ -1,5 +1,5 @@
 ---
-title: Stacks play Saturday, December, 2024 at Pirogue's Whaiskkey Bayou in Arabi, Louisiana.
+title: Stacks play Saturday, December 7, 2024 at Pirogue's Whiskey Bayou in Arabi, Louisiana.
 date: 2024-12-07T17:00:00.000Z
 summary:
 image: /static/img/flyers/stacks-flyer-pirogues-dec-7-2024.png

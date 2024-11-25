@@ -1,4 +1,3 @@
-
 ---
 title: My new band Golden Ray makes its re-re-scheduled debut
 date: 2021-04-25T17:00:00.000Z

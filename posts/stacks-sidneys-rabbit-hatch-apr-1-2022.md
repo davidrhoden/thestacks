@@ -4,7 +4,7 @@ date: 2022-04-01T21:00:00.000Z
 summary: Rabbit Hatch is Gina Phillips and PJ Christie.
 excerpt: Rabbit Hatch is Gina Phillips and PJ Christie.
 category: rock
-image: flyers/stacks-flyer-apr-1-2022.jpg
+image: /static/img/flyers/stacks-flyer-apr-1-2022.jpg
 tags:
   - post
   - shows

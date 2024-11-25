@@ -2,7 +2,7 @@
 title: Stacks and Happy Talk at Checkpoint Charlie
 date: 2024-04-13T17:00:00.000Z
 summary:
-image: flyers/Stacks-HTB-checkpoints-apr-13-2024.jpg
+image: /static/img/flyers/Stacks-HTB-checkpoints-apr-13-2024.jpg
 tags:
   - post 
   - news

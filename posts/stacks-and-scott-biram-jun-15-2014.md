@@ -4,7 +4,7 @@ date: 2014-06-15T21:00:00.000Z
 summary: Pretty fun show. Austin Lucas was bossy.
 excerpt: Pretty fun show. Austin Lucas was bossy.
 category: rock
-image: flyers/stacks-flyer-scott-biram-jun-15-2014.jpg
+image: /static/img/flyers/stacks-flyer-scott-biram-jun-15-2014.jpg
 tags:
   - post 
   - New Orleans

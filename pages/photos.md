@@ -15,6 +15,17 @@ _We beg your pardon; this page is a work in progress. If you want to enlarge the
 
 ## 2024
 
+![Flyer for Stacks at Pirogue's December 7, 2024](/static/img/flyers/stacks-flyer-pirogues-dec-7-2024.pn
+g)
+
+![Flyer for Stacks at Pirogue's October 26, 2024](/static/img/flyers/stacks-flyer-pirogues-oct-26-2024.jpg)
+
+![Flyer for Stacks at Poor Boys, July 13, 2024](/static/img/flyers/stacks-flyer-mercyland-poor-boys-jul-13-2024.jpg)
+
+![Flyer for Stacks at Intracoastal Club, July 12, 2024](/static/img/flyers/stacks-flyer-mercyland-houma-jul-12-2024.jpg)
+
+![Flyer for Stacks at Holy Diver, June 27, 2024](/static/img/flyers/stacks-flyer-lufofu-color-1-jun-27-2024.jpg)
+
 ![Flyer for Stacks at Pirogue's June 15, 2024](/static/img/flyers/stacks-flyer-pirogues-960w-jun-15-2024.jpg)
 
 ![Flyer for Stacks at Checkpoints](/static/img/Stacks-HTB-checkpoints-apr-13-2024.jpg)

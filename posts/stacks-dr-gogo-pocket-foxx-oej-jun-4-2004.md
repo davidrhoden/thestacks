@@ -4,7 +4,7 @@ date: 2003-06-05T22:00:00.000Z
 summary: Got out my black and green inks.
 excerpt: Got out my black and green inks.
 category: rock
-image: flyers/stacks-flyer-dr-gogo-pocket-foxx-oej-jun-4-2003.jpg
+image: /static/img/flyers/stacks-flyer-dr-gogo-pocket-foxx-oej-jun-4-2003.jpg
 tags:
   - post 
   - shows

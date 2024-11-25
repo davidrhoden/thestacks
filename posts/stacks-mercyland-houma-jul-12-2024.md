@@ -2,7 +2,7 @@
 title: Stacks play Friday, July 12, 2024 in Houma, Louisiana with Mercyland.
 date: 2024-07-12T17:00:00.000Z
 summary:
-image: flyers/stacks-flyer-mercyland-houma-jul-12-2024.jpg
+image: /static/img/flyers/stacks-flyer-mercyland-houma-jul-12-2024.jpg
 tags:
   - post 
   - shows

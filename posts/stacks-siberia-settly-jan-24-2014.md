@@ -4,7 +4,7 @@ date: 2014-01-25T11:00:00.000Z
 summary: Good show for us.
 excerpt: Good show for us.
 category: rock
-image: flyers/stacks-flyer-jan-25-2014.jpg
+image: /static/img/flyers/stacks-flyer-jan-25-2014.jpg
 tags:
   - post 
   - shows

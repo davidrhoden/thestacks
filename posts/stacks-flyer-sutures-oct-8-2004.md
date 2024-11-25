@@ -4,7 +4,7 @@ date: 2004-10-08T21:00:00.000Z
 summary: Defunct club on Decatur Street.
 excerpt: Defunct club on Decatur Street.
 category: rock
-image: flyers/stacks-flyer-sutures-oct-8-2004.jpg
+image: /static/img/flyers/stacks-flyer-sutures-oct-8-2004.jpg
 tags:
   - post 
   - New Orleans

@@ -4,7 +4,7 @@ date: 2001-02-09T22:00:00.000Z
 summary: I don't think Bad Times played this show.
 excerpt: I don't think Bad Times played this show.
 category: rock
-image: flyers/stacks-flyer-bad-times-flyer-feb-9-2001.jpg
+image: /static/img/flyers/stacks-flyer-bad-times-flyer-feb-9-2001.jpg
 tags:
   - post 
   - shows

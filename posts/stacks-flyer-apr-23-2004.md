@@ -4,7 +4,7 @@ date: 2004-04-23T00:00:00.000Z
 summary: The paper color was really important.
 excerpt: The paper color was really important.
 category: rock
-image: flyers/stacks-flyer-apr-23-2004.jpg
+image: /static/img/flyers/stacks-flyer-apr-23-2004.jpg
 tags:
   - post 
   - shows

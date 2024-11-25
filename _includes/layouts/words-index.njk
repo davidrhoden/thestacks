@@ -10,7 +10,7 @@ section: words
 {% for word in words %}
 <article class="flex">
   <div class="left">
-    {% if word.data.image %}<img class="thumbnail" src="/static/img/{{ word.data.image }}?nf_resize=fit&w=160">{% endif %}
+    {% if word.data.image %}<img class="thumbnail" src="{{ word.data.image }}?nf_resize=fit&w=160">{% endif %}
   </div>
   <div>
   <h3>

@@ -9,7 +9,7 @@ navtitle: Home
 
 -----
 
-Join the mailing list &endash; never miss another show.
+Join the mailing list &ndash; never miss another show.
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/thestacks"

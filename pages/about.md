@@ -31,6 +31,7 @@ The Sleepy Heads broke up over this stubbornness, but we had a couple of gigs bo
  David Rhoden
  Andrew Donaldson
  Steve Walkup
+ plus Chan, when we can get him.
  
 -----
  Previous Stacks:

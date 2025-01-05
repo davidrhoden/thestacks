@@ -17,7 +17,7 @@ Join the mailing list &ndash; never miss another show.
   action="https://buttondown.email/api/emails/embed-subscribe/thestacks"
   method="post"
   target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/thestacks?tag=july-12-13-2024', 'popupwindow')"
+  onsubmit="window.open('https://buttondown.email/thestacks?tag=website-homepage-2025', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
   <label for="bd-email">Enter your email (this is the only required field)</label>

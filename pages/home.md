@@ -7,7 +7,7 @@ navtitle: Home
 
 ![Flyer for Stacks at Pirogue's December 7, 2024](/static/img/flyers/stacks-dec-7-2024/stacks-flyer-pirogues-dec-7-2024.jpg)
 
-# Next show: Saturday, December 7, 2024, at Pirogue's Whiskey Bayou, 6940 St. Claude Avenue, in Arabi, Louisiana. It's a big Christmas party, but _not_ a private party! Just walk on in.
+# Nothing on the horizon at the moment. Watch this space.
 
 -----
 
@@ -22,7 +22,7 @@ Join the mailing list &ndash; never miss another show.
 >
   <label for="bd-email">Enter your email (this is the only required field)</label>
   <input type="email" name="email" id="bd-email" />
-  <label for="full_name">Your name</label>
+  <label for="full_name">Your name (not required, but what's the secret?)</label>
   <input type="text" name="metadata__full_name" id="full_name" />
   <label for="mailing_address">Your mailing address (if you want occasional snail mail)</label>
   <input type="text" name="metadata__mailing_address" id="mailing_address" />

@@ -8,9 +8,6 @@ eleventyNavigation:
 navtitle: Photos
 ---
 
-
-_We beg your pardon; this page is a work in progress. If you want to enlarge the pictures, right-click and choose "Open Image in New Tab". Thanks for your patience. --The Stacks._
-
 <div class="image-width-640-or-100-percent">
 
 ## 2024
@@ -154,8 +151,6 @@ _We beg your pardon; this page is a work in progress. If you want to enlarge the
 ![Stacks at Circle Bar, New Orleans, July 8, 2005](/static/img/stacks-circle-bar-jul-8-2005/stacks-circle-bar-jul-8-2005-189.jpg)
 
 ![Stacks at Circle Bar, New Orleans, July 8, 2005](/static/img/stacks-circle-bar-jul-8-2005/stacks-circle-bar-jul-8-2005-188.jpg)
-
-![Stacks at Lounge Lizards, New Orleans, April 23, 2005, maybe?](/static/img/flyers/stacks-sophisticats-flyer-apr-23.jpg)
 
 ![Stacks at Sluggo's, Pensacola, Florida, January 7, 2005 (?)](/static/img/stacks-at-sluggos-jan-7-2005.jpg)
 

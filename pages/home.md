@@ -7,7 +7,7 @@ navtitle: Home
 
 ![Flyer for Stacks at Pirogue's December 7, 2024](/static/img/flyers/stacks-dec-7-2024/stacks-flyer-pirogues-dec-7-2024.jpg)
 
-# Nothing on the horizon at the moment. Watch this space.
+# We have a show in May! Watch this space.
 
 -----
 

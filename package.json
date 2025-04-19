@@ -23,7 +23,7 @@
   },
   "homepage": "https://davidrhoden.com",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy": "^3.0.0",
     "luxon": "^3.0.1",
     "markdown-it": "^14.0.0",
     "markdown-it-anchor": "^9.0.1"

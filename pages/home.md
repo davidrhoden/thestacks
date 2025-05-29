@@ -5,9 +5,9 @@ permalink: /
 navtitle: Home
 ---
 
-![Flyer for Stacks at Pirogue's December 7, 2024](/static/img/flyers/stacks-dec-7-2024/stacks-flyer-pirogues-dec-7-2024.jpg)
+![Flyer for Stacks at Pirogue's December 7, 2024](/static/img/flyers/Stacks-HTB-checkpoints-may-30-2025.jpg)
 
-# We have a show in May! Watch this space.
+# Stcks and Happy Talk at Checkpoint Charlie Friday, May 30, 2025! Happy Talk at 9, Stacks at 10.
 
 -----
 

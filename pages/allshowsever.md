@@ -6,18 +6,7 @@ navtitle: All Shows Ever
 
 ---
 
-<!DOCTYPE html><br />
-<html><br />
-<head><br />
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8"><br />
-    <title>The Stacks: New Orleans Louisiana</title><br />
-    <link rel="stylesheet" href="thestacksnola.css" type="text/css" media="screen" title="no title" charset="utf-8"><br />
-</head><br />
-<body id="index" onload=""><br />
-    <div id="central"><br />
-        <a class="prev" href="#"><<</a><br />
-        <a class="next" href="#">>></a><br />
-    <ul><br />
+<ul>
 
 <li class="slide">
 The Stacks Reunion <br />
@@ -369,7 +358,4 @@ The Stacks with Primitive Boys<br />
 10 p.m., $5<br /></li>
 
 
-    </ul>
-</div>
-</body>
-</html>
+</ul>

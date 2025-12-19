@@ -6,7 +6,7 @@
     <body class="{% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}">
         {% include "components/header.njk" %}
         <main>
-            {{ layoutContent | safe }}
+            {{ content | safe }}
         </main>
             {% include "components/footer.njk" %}
     </body>

@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
 date: 2023-12-12T00:00:00.000Z
-permalink: /allshowsever
+permalink: /allshowsever/index.html
 navtitle: All Shows Ever
 
 ---

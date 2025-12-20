@@ -29,7 +29,7 @@
     "markdown-it-anchor": "^9.0.1"
   },
   "dependencies": {
-    "@11ty/eleventy-navigation": "^0.3.2",
+    "@11ty/eleventy-navigation": "^1.0.5",
     "clean-css": "^5.2.2",
     "eleventy-plugin-seo": "^0.5.2",
     "html-minifier": "^4.0.0",

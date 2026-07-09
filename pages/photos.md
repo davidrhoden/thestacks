@@ -10,6 +10,15 @@ navtitle: Photos
 
 <div class="image-width-640-or-100-percent">
 
+
+## 2026
+
+![repainted Stacks green kick drum head](/static/img/stacks-drum-head-green-may-22-2026.jpeg)
+
+## 2025
+
+![Flyer for Stacks and Happy Talk Band at Checkpoints may 30, 2025](/static/img/flyers/Stacks-HTB-checkpoints-may-30-2025.jpg)
+
 ## 2024
 
 ![Flyer for Stacks at Pirogue's December 7, 2024](/static/img/flyers/stacks-flyer-pirogues-dec-7-2024.png)

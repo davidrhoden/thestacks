@@ -9,6 +9,6 @@ date: 2024-01-08
 permalink: /shows/index.html
 ---
 
-_This is still a pretty incomplete and probably inaccurate list; we're working on it._
+_This is still a pretty incomplete and probably inaccurate list; we're working on it. Click the titles to read more._
 
-_Click the titles to read more._
+<br>

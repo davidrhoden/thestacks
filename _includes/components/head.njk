@@ -20,7 +20,7 @@
     {% include "assets/js/jquery.min.js" %}
     {% include "assets/js/inline.js" %}
   {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
+  <script>{{ js | safe }}</script>
   {% seo "" %}
 <!-- Meta Pixel Code -->
 <script>

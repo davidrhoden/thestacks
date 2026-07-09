@@ -128,7 +128,9 @@ p {
 }
 
 .shows p {
-	margin: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 1.2;
 }
 
 .sounds p {
@@ -164,6 +166,11 @@ ul {
 	max-width: 100%;
 }
 
+a[href].showlist-stub,
+a[href].showlist-stub:visited {
+	color: orangered;
+}
+
 .showlist img, .showdate img {
 	display: inline;
 	height: 12px;
@@ -180,6 +187,7 @@ ul {
 	padding-bottom: 0;
 	border-bottom: 0px solid black;
 	border-bottom: 1px solid var(--black);
+}
 
 .about img {
 	width: auto;
@@ -252,14 +260,16 @@ ul {
 	}
 
 	.showdate {
-		width: 5em;
+		flex: 0 0 5em;
+		text-align: right;
 	}
 
 	.shows article {
-		display: flex;
-		justify-content: left;
 		border-bottom: 0px solid #eee;
-		margin-bottom: .1em;
+		display: flex;
+		gap: 1em;
+		justify-content: left;
+		margin-bottom: .5em;
 		padding-bottom: 0;
 	}
 
